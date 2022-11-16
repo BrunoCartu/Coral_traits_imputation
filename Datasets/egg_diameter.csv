@@ -1,0 +1,26 @@
+"species","eggDiameter_mm","sd","n"
+"Acropora gemmifera",0.604,0.047804602288901,48
+"Acropora humilis",0.532,0.126521460630203,37
+"Acropora hyacinthus",0.566151777412255,0.0555372411493218,30
+"Acropora millepora",0.541,0.033375440072005,32
+"Acropora nana",0.487858325308072,0.0483231339066805,26
+"Acropora pulchra",0.575,0.0403050865276332,18
+"Acropora valida",0.596,0.0461787830069178,17
+"Anacropora puertogalerae",0.396,0.00155884572681199,27
+"Coelastrea aspera",0.372,0.000894427190999916,5
+"Danafungia horrida",0.21,0.0316227766016838,10
+"Dipsastraea favus",0.43,0.0808290376865476,4
+"Echinopora lamellosa",0.25,0.0134164078649987,20
+"Goniastrea retiformis",0.371,0.0221918904106883,38
+"Leptastrea purpurea",0.273,0.00099498743710662,11
+"Lobophyllia corymbosa",0.675,0.0866025403784439,4
+"Merulina ampliata",0.339,0.0166682332597069,7
+"Montipora digitata",0.337,0.0412169867894294,39
+"Pachyseris speciosa",0.368,0.019718012070186,30
+"Palauastrea ramosa",0.356,0.00156524758424985,5
+"Physogyra lichtensteini",0.511,8e-04,16
+"Platygyra daedalea",0.396,0.0221918904106883,38
+"Plerogyra sinuosa",0.489,0.0013076696830622,19
+"Pocillopora grandis",0.15,0.0228078933704979,20
+"Porites australiensis",0.265238095238095,0.0635209035973479,21
+"Porites lutea",0.18,NA,1
