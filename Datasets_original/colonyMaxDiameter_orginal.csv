@@ -1,0 +1,534 @@
+"observation_id","access","user_id","specie_id","specie_name","location_id","location_name","latitude","longitude","resource_id","resource_secondary_id","measurement_id","trait_id","trait_name","standard_id","standard_unit","methodology_id","methodology_name","value","value_type","precision","precision_type","precision_upper","replicates","notes"
+112778,1,31,16,"Acropora abrolhosensis",1,"Global estimate",NA,NA,10,NA,127225,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+112779,1,31,16,"Acropora abrolhosensis",1,"Global estimate",NA,NA,23,NA,127226,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112780,1,31,16,"Acropora abrolhosensis",1,"Global estimate",NA,NA,37,NA,127227,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112781,1,31,18,"Acropora aculeus",1,"Global estimate",NA,NA,23,NA,127228,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112782,1,31,18,"Acropora aculeus",1,"Global estimate",NA,NA,37,NA,127229,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112785,1,31,19,"Acropora acuminata",1,"Global estimate",NA,NA,37,NA,127232,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112783,1,31,19,"Acropora acuminata",1,"Global estimate",NA,NA,15,NA,127230,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112784,1,31,19,"Acropora acuminata",1,"Global estimate",NA,NA,23,NA,127231,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112787,1,31,21,"Acropora anthocercis",1,"Global estimate",NA,NA,23,NA,127234,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112786,1,31,21,"Acropora anthocercis",1,"Global estimate",NA,NA,15,NA,127233,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112788,1,31,26,"Acropora awi",1,"Global estimate",NA,NA,23,NA,127235,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112789,1,31,26,"Acropora awi",1,"Global estimate",NA,NA,37,NA,127236,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112790,1,31,27,"Acropora azurea",1,"Global estimate",NA,NA,23,NA,127237,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+112792,1,31,28,"Acropora batunai",1,"Global estimate",NA,NA,37,NA,127239,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",125,"raw_value","","",NA,NA,NA
+112791,1,31,28,"Acropora batunai",1,"Global estimate",NA,NA,23,NA,127238,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",125,"raw_value","","",NA,NA,NA
+112793,1,31,32,"Acropora bushyensis",1,"Global estimate",NA,NA,15,NA,127240,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"raw_value","","",NA,NA,NA
+112794,1,31,32,"Acropora bushyensis",1,"Global estimate",NA,NA,23,NA,127241,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"raw_value","","",NA,NA,NA
+112795,1,31,35,"Acropora caroliniana",1,"Global estimate",NA,NA,15,NA,127242,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112796,1,31,35,"Acropora caroliniana",1,"Global estimate",NA,NA,23,NA,127243,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112797,1,31,35,"Acropora caroliniana",1,"Global estimate",NA,NA,37,NA,127244,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112798,1,31,36,"Acropora cerealis",1,"Global estimate",NA,NA,23,NA,127245,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112799,1,31,36,"Acropora cerealis",1,"Global estimate",NA,NA,37,NA,127246,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+114465,1,8,37,"Acropora cervicornis",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134852,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",26.38,"maximum","a cervicornis","",NA,NA,NA
+114453,1,8,37,"Acropora cervicornis",1,"Global estimate",NA,NA,689,NA,134840,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",111,"maximum","","",NA,NA,NA
+112800,1,31,45,"Acropora cylindrica",1,"Global estimate",NA,NA,65,NA,127247,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112801,1,31,46,"Acropora cytherea",1,"Global estimate",NA,NA,15,NA,127248,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112802,1,31,46,"Acropora cytherea",1,"Global estimate",NA,NA,23,NA,127249,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112803,1,31,46,"Acropora cytherea",1,"Global estimate",NA,NA,37,NA,127250,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112805,1,31,47,"Acropora dendrum",1,"Global estimate",NA,NA,10,NA,127252,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112804,1,31,47,"Acropora dendrum",1,"Global estimate",NA,NA,38,NA,127251,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112806,1,31,47,"Acropora dendrum",1,"Global estimate",NA,NA,15,NA,127253,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112807,1,31,48,"Acropora derawanensis",1,"Global estimate",NA,NA,23,NA,127254,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112808,1,31,48,"Acropora derawanensis",1,"Global estimate",NA,NA,37,NA,127255,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112809,1,31,49,"Acropora desalwii",1,"Global estimate",NA,NA,23,NA,127256,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+112810,1,31,49,"Acropora desalwii",1,"Global estimate",NA,NA,37,NA,127257,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+112811,1,31,50,"Acropora digitifera",1,"Global estimate",NA,NA,10,NA,127258,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112812,1,31,52,"Acropora donei",1,"Global estimate",NA,NA,10,NA,127259,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112813,1,31,52,"Acropora donei",1,"Global estimate",NA,NA,23,NA,127260,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112814,1,31,52,"Acropora donei",1,"Global estimate",NA,NA,37,NA,127261,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112816,1,31,54,"Acropora echinata",1,"Global estimate",NA,NA,37,NA,127263,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112815,1,31,54,"Acropora echinata",1,"Global estimate",NA,NA,23,NA,127262,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112817,1,31,55,"Acropora efflorescens",1,"Global estimate",NA,NA,10,NA,127264,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112819,1,31,59,"Acropora elseyi",1,"Global estimate",NA,NA,37,NA,127266,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112818,1,31,59,"Acropora elseyi",1,"Global estimate",NA,NA,23,NA,127265,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112820,1,31,63,"Acropora fenneri",1,"Global estimate",NA,NA,10,NA,127267,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112821,1,31,63,"Acropora fenneri",1,"Global estimate",NA,NA,65,NA,127268,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112822,1,31,65,"Acropora florida",1,"Global estimate",NA,NA,38,NA,127269,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1500,"raw_value","","",NA,NA,NA
+112826,1,31,72,"Acropora grandis",1,"Global estimate",NA,NA,37,NA,127273,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112823,1,31,72,"Acropora grandis",1,"Global estimate",NA,NA,38,NA,127270,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",700,"raw_value","","",NA,NA,NA
+112824,1,31,72,"Acropora grandis",1,"Global estimate",NA,NA,10,NA,127271,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",700,"raw_value","","",NA,NA,NA
+112825,1,31,72,"Acropora grandis",1,"Global estimate",NA,NA,23,NA,127272,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112827,1,31,73,"Acropora granulosa",1,"Global estimate",NA,NA,10,NA,127274,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112828,1,31,73,"Acropora granulosa",1,"Global estimate",NA,NA,15,NA,127275,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112829,1,31,73,"Acropora granulosa",1,"Global estimate",NA,NA,23,NA,127276,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112830,1,31,73,"Acropora granulosa",1,"Global estimate",NA,NA,37,NA,127277,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112831,1,31,76,"Acropora hemprichii",1,"Global estimate",NA,NA,10,NA,127278,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112832,1,31,77,"Acropora hoeksemai",1,"Global estimate",NA,NA,10,NA,127279,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112833,1,31,77,"Acropora hoeksemai",1,"Global estimate",NA,NA,23,NA,127280,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112834,1,31,77,"Acropora hoeksemai",1,"Global estimate",NA,NA,37,NA,127281,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112836,1,31,78,"Acropora horrida",1,"Global estimate",NA,NA,37,NA,127283,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112835,1,31,78,"Acropora horrida",1,"Global estimate",NA,NA,23,NA,127282,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112837,1,31,80,"Acropora hyacinthus",1,"Global estimate",NA,NA,23,NA,127284,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112838,1,31,80,"Acropora hyacinthus",1,"Global estimate",NA,NA,37,NA,127285,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+114494,1,8,80,"Acropora hyacinthus",399,"Kushimoto‐Shirahama, Japan",33.505328,135.630819,691,NA,134881,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"maximum","","",NA,NA,NA
+112840,1,31,82,"Acropora indonesia",1,"Global estimate",NA,NA,37,NA,127287,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112839,1,31,82,"Acropora indonesia",1,"Global estimate",NA,NA,23,NA,127286,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112841,1,31,119,"Acropora intermedia",1,"Global estimate",NA,NA,10,NA,127288,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112842,1,31,85,"Acropora irregularis",1,"Global estimate",NA,NA,10,NA,127289,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112844,1,31,86,"Acropora jacquelineae",1,"Global estimate",NA,NA,23,NA,127291,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+112845,1,31,86,"Acropora jacquelineae",1,"Global estimate",NA,NA,37,NA,127292,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+112843,1,31,86,"Acropora jacquelineae",1,"Global estimate",NA,NA,10,NA,127290,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112847,1,31,92,"Acropora lamarcki",1,"Global estimate",NA,NA,65,NA,127294,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112846,1,31,92,"Acropora lamarcki",1,"Global estimate",NA,NA,10,NA,127293,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112848,1,31,94,"Acropora lianae",1,"Global estimate",NA,NA,10,NA,127295,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112850,1,31,95,"Acropora listeri",1,"Global estimate",NA,NA,37,NA,127297,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112849,1,31,95,"Acropora listeri",1,"Global estimate",NA,NA,23,NA,127296,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112851,1,31,97,"Acropora lokani",1,"Global estimate",NA,NA,23,NA,127298,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+112852,1,31,99,"Acropora loripes",1,"Global estimate",NA,NA,15,NA,127299,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112853,1,31,99,"Acropora loripes",1,"Global estimate",NA,NA,37,NA,127300,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112854,1,31,101,"Acropora lutkeni",1,"Global estimate",NA,NA,15,NA,127301,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",600,"raw_value","","",NA,NA,NA
+112855,1,31,102,"Acropora macrostoma",1,"Global estimate",NA,NA,10,NA,127302,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112856,1,31,104,"Acropora maryae",1,"Global estimate",NA,NA,38,NA,127303,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112857,1,31,104,"Acropora maryae",1,"Global estimate",NA,NA,15,NA,127304,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112858,1,31,104,"Acropora maryae",1,"Global estimate",NA,NA,23,NA,127305,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112859,1,31,104,"Acropora maryae",1,"Global estimate",NA,NA,37,NA,127306,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+112860,1,31,105,"Acropora massawensis",1,"Global estimate",NA,NA,38,NA,127307,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112861,1,31,106,"Acropora meridiana",1,"Global estimate",NA,NA,15,NA,127308,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112862,1,31,107,"Acropora microclados",1,"Global estimate",NA,NA,10,NA,127309,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112863,1,31,108,"Acropora microphthalma",1,"Global estimate",NA,NA,10,NA,127310,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112864,1,31,112,"Acropora monticulosa",1,"Global estimate",NA,NA,10,NA,127311,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112865,1,31,66,"Acropora muricata",1,"Global estimate",NA,NA,10,NA,127312,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+114495,1,8,66,"Acropora muricata",399,"Kushimoto‐Shirahama, Japan",33.505328,135.630819,691,NA,134882,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",250,"maximum","","",NA,NA,NA
+112866,1,31,115,"Acropora nana",1,"Global estimate",NA,NA,23,NA,127313,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+112867,1,31,115,"Acropora nana",1,"Global estimate",NA,NA,37,NA,127314,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+112868,1,31,116,"Acropora nasuta",1,"Global estimate",NA,NA,37,NA,127315,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+112869,1,31,124,"Acropora palmata",1,"Global estimate",NA,NA,10,NA,127316,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112872,1,31,125,"Acropora palmerae",1,"Global estimate",NA,NA,15,NA,127319,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112873,1,31,125,"Acropora palmerae",1,"Global estimate",NA,NA,23,NA,127320,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112871,1,31,125,"Acropora palmerae",1,"Global estimate",NA,NA,10,NA,127318,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112870,1,31,125,"Acropora palmerae",1,"Global estimate",NA,NA,38,NA,127317,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112874,1,31,125,"Acropora palmerae",1,"Global estimate",NA,NA,37,NA,127321,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112877,1,31,126,"Acropora paniculata",1,"Global estimate",NA,NA,15,NA,127324,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112875,1,31,126,"Acropora paniculata",1,"Global estimate",NA,NA,38,NA,127322,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112876,1,31,126,"Acropora paniculata",1,"Global estimate",NA,NA,10,NA,127323,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112878,1,31,126,"Acropora paniculata",1,"Global estimate",NA,NA,23,NA,127325,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112879,1,31,126,"Acropora paniculata",1,"Global estimate",NA,NA,37,NA,127326,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+112881,1,31,129,"Acropora parahemprichii",1,"Global estimate",NA,NA,65,NA,127328,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112880,1,31,129,"Acropora parahemprichii",1,"Global estimate",NA,NA,10,NA,127327,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112882,1,31,132,"Acropora pectinatus",1,"Global estimate",NA,NA,10,NA,127329,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112883,1,31,134,"Acropora pichoni",1,"Global estimate",NA,NA,10,NA,127330,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112884,1,31,135,"Acropora pinguis",1,"Global estimate",NA,NA,10,NA,127331,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112885,1,31,140,"Acropora polystoma",1,"Global estimate",NA,NA,23,NA,127332,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+112886,1,31,140,"Acropora polystoma",1,"Global estimate",NA,NA,37,NA,127333,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+114496,1,8,144,"Acropora pruinosa",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134883,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"maximum","","",NA,NA,NA
+112887,1,31,145,"Acropora pulchra",1,"Global estimate",NA,NA,10,NA,127334,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112888,1,31,146,"Acropora rambleri",1,"Global estimate",NA,NA,10,NA,127335,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112889,1,31,152,"Acropora roseni",1,"Global estimate",NA,NA,10,NA,127336,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112890,1,31,153,"Acropora rudis",1,"Global estimate",NA,NA,23,NA,127337,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112891,1,31,156,"Acropora samoensis",1,"Global estimate",NA,NA,10,NA,127338,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112892,1,31,157,"Acropora sarmentosa",1,"Global estimate",NA,NA,15,NA,127339,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+112893,1,31,160,"Acropora secale",1,"Global estimate",NA,NA,15,NA,127340,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112894,1,31,162,"Acropora selago",1,"Global estimate",NA,NA,23,NA,127341,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",75,"raw_value","","",NA,NA,NA
+112895,1,31,164,"Acropora simplex",1,"Global estimate",NA,NA,10,NA,127342,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112897,1,31,165,"Acropora solitaryensis",1,"Global estimate",NA,NA,10,NA,127344,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112898,1,31,165,"Acropora solitaryensis",1,"Global estimate",NA,NA,23,NA,127345,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112899,1,31,165,"Acropora solitaryensis",1,"Global estimate",NA,NA,37,NA,127346,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+114498,1,8,165,"Acropora solitaryensis",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134885,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"maximum","","",NA,NA,NA
+112896,1,31,165,"Acropora solitaryensis",1,"Global estimate",NA,NA,38,NA,127343,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112901,1,31,168,"Acropora speciosa",1,"Global estimate",NA,NA,37,NA,127348,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112900,1,31,168,"Acropora speciosa",1,"Global estimate",NA,NA,23,NA,127347,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112902,1,31,171,"Acropora stoddarti",1,"Global estimate",NA,NA,10,NA,127349,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112904,1,31,174,"Acropora subulata",1,"Global estimate",NA,NA,15,NA,127351,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112905,1,31,174,"Acropora subulata",1,"Global estimate",NA,NA,23,NA,127352,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112906,1,31,174,"Acropora subulata",1,"Global estimate",NA,NA,37,NA,127353,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+112903,1,31,174,"Acropora subulata",1,"Global estimate",NA,NA,10,NA,127350,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112907,1,31,176,"Acropora sukarnoi",1,"Global estimate",NA,NA,23,NA,127354,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112908,1,31,176,"Acropora sukarnoi",1,"Global estimate",NA,NA,37,NA,127355,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112909,1,31,187,"Acropora tumida",1,"Global estimate",NA,NA,10,NA,127356,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+114497,1,8,187,"Acropora tumida",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134884,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"maximum","","",NA,NA,NA
+112910,1,31,188,"Acropora turaki",1,"Global estimate",NA,NA,23,NA,127357,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112911,1,31,188,"Acropora turaki",1,"Global estimate",NA,NA,37,NA,127358,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112913,1,31,190,"Acropora valenciennesi",1,"Global estimate",NA,NA,23,NA,127360,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112912,1,31,190,"Acropora valenciennesi",1,"Global estimate",NA,NA,10,NA,127359,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112914,1,31,190,"Acropora valenciennesi",1,"Global estimate",NA,NA,37,NA,127361,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+112916,1,31,191,"Acropora valida",1,"Global estimate",NA,NA,10,NA,127363,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112915,1,31,191,"Acropora valida",1,"Global estimate",NA,NA,38,NA,127362,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112917,1,31,197,"Acropora walindii",1,"Global estimate",NA,NA,10,NA,127364,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112918,1,31,199,"Acropora willisae",1,"Global estimate",NA,NA,10,NA,127365,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112919,1,31,199,"Acropora willisae",1,"Global estimate",NA,NA,15,NA,127366,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112920,1,31,200,"Acropora yongei",1,"Global estimate",NA,NA,10,NA,127367,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+114482,1,8,201,"Agaricia agaricites",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134869,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",9.91,"maximum","a agaricites","",NA,NA,NA
+113284,1,8,201,"Agaricia agaricites",1,"Global estimate",NA,NA,442,NA,127881,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",60,"maximum","","",NA,NA,NA
+114486,1,8,202,"Agaricia fragilis",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134873,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4.74,"maximum","a fragilis","",NA,NA,NA
+113283,1,8,204,"Agaricia humilis",1,"Global estimate",NA,NA,442,NA,127880,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",12,"maximum","","",NA,NA,NA
+114478,1,8,205,"Agaricia lamarcki",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134865,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",11.21,"maximum","a lamarcki","",NA,NA,NA
+112921,1,31,210,"Alveopora catalai",1,"Global estimate",NA,NA,38,NA,127368,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+112923,1,31,210,"Alveopora catalai",1,"Global estimate",NA,NA,84,NA,127370,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+112922,1,31,210,"Alveopora catalai",1,"Global estimate",NA,NA,10,NA,127369,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112924,1,31,212,"Alveopora excelsa",1,"Global estimate",NA,NA,10,NA,127371,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112925,1,31,215,"Alveopora japonica",1,"Global estimate",NA,NA,10,NA,127372,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4,"raw_value","","",NA,NA,NA
+112926,1,31,217,"Alveopora minuta",1,"Global estimate",NA,NA,65,NA,127373,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+112927,1,31,219,"Alveopora spongiosa",1,"Global estimate",NA,NA,38,NA,127374,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112928,1,31,219,"Alveopora spongiosa",1,"Global estimate",NA,NA,10,NA,127375,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112930,1,31,1220,"Astrea devantieri",1,"Global estimate",NA,NA,65,NA,127377,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112929,1,31,1220,"Astrea devantieri",1,"Global estimate",NA,NA,10,NA,127376,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+112931,1,31,266,"Astreopora incrustans",1,"Global estimate",NA,NA,10,NA,127378,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112932,1,31,282,"Australogyra zelli",1,"Global estimate",NA,NA,10,NA,127379,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112933,1,31,310,"Balanophyllia europaea",1,"Global estimate",NA,NA,10,NA,127380,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",2,"raw_value","","",NA,NA,NA
+112934,1,31,355,"Cantharellus doederleini",1,"Global estimate",NA,NA,10,NA,127381,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",5,"raw_value","","",NA,NA,NA
+112935,1,31,356,"Cantharellus jebbi",1,"Global estimate",NA,NA,10,NA,127382,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+112936,1,31,357,"Cantharellus noumeae",1,"Global estimate",NA,NA,10,NA,127383,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+112937,1,31,426,"Catalaphyllia jardinei",1,"Global estimate",NA,NA,9,NA,127384,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112938,1,31,428,"Caulastraea curvata",1,"Global estimate",NA,NA,38,NA,127385,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112939,1,31,430,"Caulastraea furcata",1,"Global estimate",NA,NA,38,NA,127386,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+114492,1,8,431,"Caulastraea tumida",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134879,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"maximum","","",NA,NA,NA
+112940,1,31,436,"Cladocora caespitosa",1,"Global estimate",NA,NA,10,NA,127387,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112941,1,31,794,"Coelastrea aspera",1,"Global estimate",NA,NA,38,NA,127388,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112942,1,31,794,"Coelastrea aspera",1,"Global estimate",NA,NA,10,NA,127389,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112943,1,31,801,"Coelastrea palauensis",1,"Global estimate",NA,NA,13,NA,127390,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+114454,1,8,457,"Colpophyllia breviserialis",1,"Global estimate",NA,NA,689,NA,134841,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"maximum","","",NA,NA,NA
+113218,1,8,458,"Colpophyllia natans",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127665,90,"Colony maximum diameter",29,"cm",7,"Transect tape",100,"maximum","","",NA,9,NA
+113244,1,8,458,"Colpophyllia natans",1,"Global estimate",NA,NA,686,NA,127691,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"maximum","","",NA,NA,NA
+114460,1,8,458,"Colpophyllia natans",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134847,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",39.66,"maximum","c natans","",NA,NA,NA
+113219,1,8,458,"Colpophyllia natans",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127666,90,"Colony maximum diameter",29,"cm",7,"Transect tape",200,"maximum","","",NA,12,NA
+112945,1,31,733,"Cycloseris costulata",1,"Global estimate",NA,NA,10,NA,127392,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",8,"raw_value","","",NA,NA,NA
+112946,1,31,733,"Cycloseris costulata",1,"Global estimate",NA,NA,9,NA,127393,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",7.6,"raw_value","","",NA,NA,NA
+112944,1,31,733,"Cycloseris costulata",1,"Global estimate",NA,NA,38,NA,127391,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",7.6,"raw_value","","",NA,NA,NA
+112947,1,31,734,"Cycloseris curvata",1,"Global estimate",NA,NA,10,NA,127394,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",9,"raw_value","","",NA,NA,NA
+112950,1,31,735,"Cycloseris cyclolites",1,"Global estimate",NA,NA,9,NA,127397,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4.1,"raw_value","","",NA,NA,NA
+112948,1,31,735,"Cycloseris cyclolites",1,"Global estimate",NA,NA,38,NA,127395,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4,"raw_value","","",NA,NA,NA
+112949,1,31,735,"Cycloseris cyclolites",1,"Global estimate",NA,NA,10,NA,127396,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112951,1,31,737,"Cycloseris distorta",1,"Global estimate",NA,NA,38,NA,127398,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4,"raw_value","","",NA,NA,NA
+112952,1,31,737,"Cycloseris distorta",1,"Global estimate",NA,NA,10,NA,127399,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4,"raw_value","","",NA,NA,NA
+112953,1,31,737,"Cycloseris distorta",1,"Global estimate",NA,NA,9,NA,127400,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4,"raw_value","","",NA,NA,NA
+112955,1,31,514,"Cycloseris fragilis",1,"Global estimate",NA,NA,10,NA,127402,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",7,"raw_value","","",NA,NA,NA
+112956,1,31,514,"Cycloseris fragilis",1,"Global estimate",NA,NA,9,NA,127403,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",7,"raw_value","","",NA,NA,NA
+112954,1,31,514,"Cycloseris fragilis",1,"Global estimate",NA,NA,38,NA,127401,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",7,"raw_value","","",NA,NA,NA
+112957,1,31,743,"Cycloseris hexagonalis",1,"Global estimate",NA,NA,10,NA,127404,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",9,"raw_value","","",NA,NA,NA
+112959,1,31,922,"Cycloseris mokai",1,"Global estimate",NA,NA,10,NA,127406,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",8,"raw_value","","",NA,NA,NA
+112960,1,31,922,"Cycloseris mokai",1,"Global estimate",NA,NA,9,NA,127407,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+112958,1,31,922,"Cycloseris mokai",1,"Global estimate",NA,NA,38,NA,127405,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",8,"raw_value","","",NA,NA,NA
+112961,1,31,755,"Cycloseris somervillei",1,"Global estimate",NA,NA,9,NA,127408,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13,"raw_value","","",NA,NA,NA
+112962,1,31,517,"Cyphastrea chalcidicum",1,"Global estimate",NA,NA,13,NA,127409,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112964,1,31,745,"Danafungia horrida",1,"Global estimate",NA,NA,10,NA,127411,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+112963,1,31,745,"Danafungia horrida",1,"Global estimate",NA,NA,38,NA,127410,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+112965,1,31,745,"Danafungia horrida",1,"Global estimate",NA,NA,9,NA,127412,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+112966,1,31,732,"Danafungia scruposa",1,"Global estimate",NA,NA,38,NA,127413,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",24,"raw_value","","",NA,NA,NA
+112968,1,31,732,"Danafungia scruposa",1,"Global estimate",NA,NA,9,NA,127415,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",24,"raw_value","","",NA,NA,NA
+112967,1,31,732,"Danafungia scruposa",1,"Global estimate",NA,NA,10,NA,127414,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",24,"raw_value","","",NA,NA,NA
+112969,1,31,555,"Dendrogyra cylindrus",1,"Global estimate",NA,NA,10,NA,127416,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113240,1,8,584,"Dichocoenia stellaris",1,"Global estimate",NA,NA,686,NA,127687,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"maximum","","",NA,NA,NA
+113236,1,8,585,"Dichocoenia stokesi",1,"Global estimate",NA,NA,428,NA,127683,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",55,"maximum","","",NA,NA,NA
+114472,1,8,585,"Dichocoenia stokesi",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134859,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.79,"maximum","d stokesi","",NA,NA,NA
+112970,1,31,587,"Diploastrea heliopora",1,"Global estimate",NA,NA,38,NA,127417,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",700,"raw_value","","",NA,NA,NA
+112971,1,31,587,"Diploastrea heliopora",1,"Global estimate",NA,NA,10,NA,127418,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112972,1,31,587,"Diploastrea heliopora",1,"Global estimate",NA,NA,13,NA,127419,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",700,"raw_value","","",NA,NA,NA
+114462,1,8,589,"Diploria labyrinthiformis",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134849,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",32.33,"maximum","d labyringhiformis","",NA,NA,NA
+112772,1,31,5,"Dipsastraea faviaformis",1,"Global estimate",NA,NA,10,NA,127219,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+112773,1,31,5,"Dipsastraea faviaformis",1,"Global estimate",NA,NA,65,NA,127220,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+114447,1,8,648,"Dipsastraea favus",1,"Global estimate",NA,NA,688,NA,134834,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",37,"maximum","","",NA,NA,NA
+112974,1,31,652,"Dipsastraea lacuna",1,"Global estimate",NA,NA,65,NA,127421,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112973,1,31,652,"Dipsastraea lacuna",1,"Global estimate",NA,NA,10,NA,127420,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112975,1,31,655,"Dipsastraea lizardensis",1,"Global estimate",NA,NA,10,NA,127422,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112976,1,31,657,"Dipsastraea marshae",1,"Global estimate",NA,NA,65,NA,127423,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",60,"raw_value","","",NA,NA,NA
+112977,1,31,661,"Dipsastraea rosaria",1,"Global estimate",NA,NA,10,NA,127424,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112978,1,31,661,"Dipsastraea rosaria",1,"Global estimate",NA,NA,65,NA,127425,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+114490,1,8,664,"Dipsastraea speciosa",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134877,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",75,"maximum","","",NA,NA,NA
+112979,1,31,595,"Echinophyllia costata",1,"Global estimate",NA,NA,65,NA,127426,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+112980,1,31,599,"Echinophyllia orpheensis",1,"Global estimate",NA,NA,38,NA,127427,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112981,1,31,599,"Echinophyllia orpheensis",1,"Global estimate",NA,NA,10,NA,127428,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112982,1,31,603,"Echinopora ashmorensis",1,"Global estimate",NA,NA,10,NA,127429,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112983,1,31,605,"Echinopora fruticulosa",1,"Global estimate",NA,NA,10,NA,127430,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112984,1,31,609,"Echinopora horrida",1,"Global estimate",NA,NA,10,NA,127431,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112985,1,31,611,"Echinopora lamellosa",1,"Global estimate",NA,NA,10,NA,127432,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112986,1,31,612,"Echinopora mammiformis",1,"Global estimate",NA,NA,10,NA,127433,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+112987,1,31,634,"Erythrastrea flabellata",1,"Global estimate",NA,NA,10,NA,127434,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112988,1,31,635,"Euphyllia ancora",1,"Global estimate",NA,NA,10,NA,127435,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112989,1,31,636,"Euphyllia cristata",1,"Global estimate",NA,NA,9,NA,127436,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",12,"raw_value","","",NA,NA,NA
+112991,1,31,637,"Euphyllia divisa",1,"Global estimate",NA,NA,10,NA,127438,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112990,1,31,637,"Euphyllia divisa",1,"Global estimate",NA,NA,38,NA,127437,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+114481,1,8,644,"Eusmilia fastigiata",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134868,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",9.91,"maximum","e fastigiata","",NA,NA,NA
+113243,1,8,644,"Eusmilia fastigiata",1,"Global estimate",NA,NA,686,NA,127690,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",250,"maximum","","",NA,NA,NA
+112992,1,31,649,"Favia fragum",1,"Global estimate",NA,NA,10,NA,127439,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",5,"raw_value","","",NA,NA,NA
+114488,1,8,649,"Favia fragum",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134875,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",3.36,"maximum","f fragum","",NA,NA,NA
+112994,1,31,670,"Favites abdita",1,"Global estimate",NA,NA,10,NA,127441,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112993,1,31,670,"Favites abdita",1,"Global estimate",NA,NA,38,NA,127440,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+112995,1,31,976,"Favites colemani",1,"Global estimate",NA,NA,65,NA,127442,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+112996,1,31,980,"Favites magnistellata",1,"Global estimate",NA,NA,10,NA,127443,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+112997,1,31,677,"Favites micropentagonus",1,"Global estimate",NA,NA,65,NA,127444,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+112998,1,31,678,"Favites paraflexuosus",1,"Global estimate",NA,NA,65,NA,127445,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",60,"raw_value","","",NA,NA,NA
+112999,1,31,679,"Favites pentagona",1,"Global estimate",NA,NA,38,NA,127446,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113000,1,31,679,"Favites pentagona",1,"Global estimate",NA,NA,10,NA,127447,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113002,1,31,740,"Fungia fungites",1,"Global estimate",NA,NA,10,NA,127449,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",28,"raw_value","","",NA,NA,NA
+113003,1,31,740,"Fungia fungites",1,"Global estimate",NA,NA,9,NA,127450,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",28,"raw_value","","",NA,NA,NA
+113001,1,31,740,"Fungia fungites",1,"Global estimate",NA,NA,38,NA,127448,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",28,"raw_value","","",NA,NA,NA
+113004,1,31,781,"Galaxea acrhelia",1,"Global estimate",NA,NA,10,NA,127451,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113005,1,31,781,"Galaxea acrhelia",1,"Global estimate",NA,NA,65,NA,127452,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113007,1,31,782,"Galaxea astreata",1,"Global estimate",NA,NA,10,NA,127454,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113006,1,31,782,"Galaxea astreata",1,"Global estimate",NA,NA,38,NA,127453,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113008,1,31,782,"Galaxea astreata",1,"Global estimate",NA,NA,9,NA,127455,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113009,1,31,783,"Galaxea cryptoramosa",1,"Global estimate",NA,NA,10,NA,127456,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113010,1,31,783,"Galaxea cryptoramosa",1,"Global estimate",NA,NA,65,NA,127457,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113011,1,31,784,"Galaxea fascicularis",1,"Global estimate",NA,NA,38,NA,127458,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113012,1,31,784,"Galaxea fascicularis",1,"Global estimate",NA,NA,10,NA,127459,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113013,1,31,784,"Galaxea fascicularis",1,"Global estimate",NA,NA,9,NA,127460,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113014,1,31,785,"Galaxea horrescens",1,"Global estimate",NA,NA,9,NA,127461,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113015,1,31,786,"Galaxea longisepta",1,"Global estimate",NA,NA,65,NA,127462,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+113016,1,31,798,"Goniastrea edwardsi",1,"Global estimate",NA,NA,38,NA,127463,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113017,1,31,798,"Goniastrea edwardsi",1,"Global estimate",NA,NA,10,NA,127464,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113019,1,31,804,"Goniastrea ramosa",1,"Global estimate",NA,NA,65,NA,127466,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113018,1,31,804,"Goniastrea ramosa",1,"Global estimate",NA,NA,10,NA,127465,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113020,1,31,805,"Goniastrea retiformis",1,"Global estimate",NA,NA,38,NA,127467,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113021,1,31,805,"Goniastrea retiformis",1,"Global estimate",NA,NA,10,NA,127468,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113023,1,31,806,"Goniastrea thecata",1,"Global estimate",NA,NA,65,NA,127470,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113022,1,31,806,"Goniastrea thecata",1,"Global estimate",NA,NA,10,NA,127469,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113024,1,31,808,"Goniopora albiconus",1,"Global estimate",NA,NA,65,NA,127471,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113025,1,31,811,"Goniopora ciliatus",1,"Global estimate",NA,NA,65,NA,127472,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113026,1,31,821,"Goniopora pearsoni",1,"Global estimate",NA,NA,65,NA,127473,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113027,1,31,826,"Goniopora somaliensis",1,"Global estimate",NA,NA,38,NA,127474,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113028,1,31,826,"Goniopora somaliensis",1,"Global estimate",NA,NA,10,NA,127475,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113029,1,31,827,"Goniopora stokesi",1,"Global estimate",NA,NA,84,NA,127476,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113030,1,31,833,"Gyrosmilia interrupta",1,"Global estimate",NA,NA,10,NA,127477,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113031,1,31,836,"Halomitra pileus",1,"Global estimate",NA,NA,9,NA,127478,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",60,"raw_value","","",NA,NA,NA
+113032,1,31,837,"Heliofungia actiniformis",1,"Global estimate",NA,NA,9,NA,127479,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+114450,1,8,838,"Helioseris cucullata",1,"Global estimate",NA,NA,689,NA,134837,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",24,"maximum","","",NA,NA,NA
+113033,1,31,1381,"Homophyllia australis",1,"Global estimate",NA,NA,10,NA,127480,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",6,"raw_value","","",NA,NA,NA
+113034,1,31,1381,"Homophyllia australis",1,"Global estimate",NA,NA,9,NA,127481,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",2.6,"raw_value","","",NA,NA,NA
+113036,1,31,2,"Homophyllia bowerbanki",1,"Global estimate",NA,NA,9,NA,127483,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113035,1,31,2,"Homophyllia bowerbanki",1,"Global estimate",NA,NA,38,NA,127482,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113039,1,31,7,"Homophyllia hillae",1,"Global estimate",NA,NA,9,NA,127486,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113038,1,31,7,"Homophyllia hillae",1,"Global estimate",NA,NA,10,NA,127485,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113037,1,31,7,"Homophyllia hillae",1,"Global estimate",NA,NA,38,NA,127484,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+114489,1,8,853,"Hydnophora exesa",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134876,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"maximum","","",NA,NA,NA
+113040,1,31,860,"Indophyllia macassarensis",1,"Global estimate",NA,NA,10,NA,127487,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4.5,"raw_value","","",NA,NA,NA
+114484,1,8,861,"Isophyllia rigida",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134871,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",5.78,"maximum","I rigida","",NA,NA,NA
+114483,1,8,862,"Isophyllia sinuosa",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134870,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",8.27,"maximum","I sinuosa","",NA,NA,NA
+113042,1,31,43,"Isopora crateriformis",1,"Global estimate",NA,NA,23,NA,127489,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+113041,1,31,43,"Isopora crateriformis",1,"Global estimate",NA,NA,10,NA,127488,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113043,1,31,43,"Isopora crateriformis",1,"Global estimate",NA,NA,37,NA,127490,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+113044,1,31,44,"Isopora cuneata",1,"Global estimate",NA,NA,15,NA,127491,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113045,1,31,183,"Isopora togianensis",1,"Global estimate",NA,NA,23,NA,127492,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113046,1,31,183,"Isopora togianensis",1,"Global estimate",NA,NA,37,NA,127493,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113047,1,31,878,"Leptastrea aequalis",1,"Global estimate",NA,NA,65,NA,127494,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113048,1,31,879,"Leptastrea bewickensis",1,"Global estimate",NA,NA,13,NA,127495,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113049,1,31,883,"Leptastrea purpurea",1,"Global estimate",NA,NA,13,NA,127496,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113050,1,31,899,"Leptoria irregularis",1,"Global estimate",NA,NA,10,NA,127497,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113051,1,31,906,"Leptoseris gardineri",1,"Global estimate",NA,NA,38,NA,127498,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+113053,1,31,906,"Leptoseris gardineri",1,"Global estimate",NA,NA,9,NA,127500,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",600,"raw_value","","",NA,NA,NA
+113052,1,31,906,"Leptoseris gardineri",1,"Global estimate",NA,NA,10,NA,127499,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+113056,1,31,909,"Leptoseris mycetoseroides",1,"Global estimate",NA,NA,9,NA,127503,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113054,1,31,909,"Leptoseris mycetoseroides",1,"Global estimate",NA,NA,38,NA,127501,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113055,1,31,909,"Leptoseris mycetoseroides",1,"Global estimate",NA,NA,10,NA,127502,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113057,1,31,913,"Leptoseris striata",1,"Global estimate",NA,NA,10,NA,127504,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",5,"raw_value","","",NA,NA,NA
+113058,1,31,913,"Leptoseris striata",1,"Global estimate",NA,NA,65,NA,127505,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113060,1,31,916,"Leptoseris yabei",1,"Global estimate",NA,NA,10,NA,127507,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113059,1,31,916,"Leptoseris yabei",1,"Global estimate",NA,NA,38,NA,127506,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113062,1,31,731,"Lithophyllon concinna",1,"Global estimate",NA,NA,10,NA,127509,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16,"raw_value","","",NA,NA,NA
+113061,1,31,731,"Lithophyllon concinna",1,"Global estimate",NA,NA,38,NA,127508,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16,"raw_value","","",NA,NA,NA
+113063,1,31,731,"Lithophyllon concinna",1,"Global estimate",NA,NA,9,NA,127510,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16,"raw_value","","",NA,NA,NA
+113065,1,31,749,"Lithophyllon repanda",1,"Global estimate",NA,NA,10,NA,127512,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113066,1,31,749,"Lithophyllon repanda",1,"Global estimate",NA,NA,9,NA,127513,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113064,1,31,749,"Lithophyllon repanda",1,"Global estimate",NA,NA,38,NA,127511,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113067,1,31,756,"Lithophyllon spinifer",1,"Global estimate",NA,NA,10,NA,127514,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",12.5,"raw_value","","",NA,NA,NA
+114491,1,8,921,"Lithophyllon undulatum",398,"Tsushima, Japan",4.173367,129.242088,691,NA,134878,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"maximum","","",NA,NA,NA
+113068,1,31,752,"Lobactis scutaria",1,"Global estimate",NA,NA,38,NA,127515,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",17,"raw_value","","",NA,NA,NA
+113070,1,31,752,"Lobactis scutaria",1,"Global estimate",NA,NA,9,NA,127517,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",17,"raw_value","","",NA,NA,NA
+113069,1,31,752,"Lobactis scutaria",1,"Global estimate",NA,NA,10,NA,127516,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",17,"raw_value","","",NA,NA,NA
+113071,1,31,925,"Lobophyllia corymbosa",1,"Global estimate",NA,NA,38,NA,127518,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113072,1,31,925,"Lobophyllia corymbosa",1,"Global estimate",NA,NA,10,NA,127519,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113074,1,31,927,"Lobophyllia dentata",1,"Global estimate",NA,NA,65,NA,127521,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113073,1,31,927,"Lobophyllia dentata",1,"Global estimate",NA,NA,10,NA,127520,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113075,1,31,929,"Lobophyllia flabelliformis",1,"Global estimate",NA,NA,65,NA,127522,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113076,1,31,931,"Lobophyllia hemprichii",1,"Global estimate",NA,NA,10,NA,127523,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113077,1,31,932,"Lobophyllia pachysepta",1,"Global estimate",NA,NA,10,NA,127524,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113078,1,31,934,"Lobophyllia serrata",1,"Global estimate",NA,NA,10,NA,127525,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113079,1,31,934,"Lobophyllia serrata",1,"Global estimate",NA,NA,65,NA,127526,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+114480,1,8,943,"Madracis decactis",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134867,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"maximum","m decactis","",NA,NA,NA
+114448,1,8,943,"Madracis decactis",1,"Global estimate",NA,NA,689,NA,134835,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",8,"maximum","","",NA,NA,NA
+114479,1,8,944,"Madracis formosa",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134866,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10.23,"maximum","m formosa","",NA,NA,NA
+113080,1,31,948,"Madracis kirbyi",1,"Global estimate",NA,NA,12,NA,127527,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",125,"raw_value","","",NA,NA,NA
+114470,1,8,949,"Madracis mirabilis",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134857,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",14.66,"maximum","m mirabilis","",NA,NA,NA
+113238,1,8,961,"Manicina areolata",1,"Global estimate",NA,NA,686,NA,127685,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"maximum","","",NA,NA,NA
+114485,1,8,961,"Manicina areolata",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134872,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",5.35,"maximum","m areolata","",NA,NA,NA
+114468,1,8,964,"Meandrina meandrites",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134855,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16.3,"maximum","m meandrites","",NA,NA,NA
+113081,1,31,967,"Merulina scheeri",1,"Global estimate",NA,NA,10,NA,127528,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113083,1,31,1120,"Merulina triangularis",1,"Global estimate",NA,NA,10,NA,127530,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113084,1,31,1120,"Merulina triangularis",1,"Global estimate",NA,NA,9,NA,127531,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113082,1,31,1120,"Merulina triangularis",1,"Global estimate",NA,NA,38,NA,127529,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113085,1,31,969,"Micromussa diminuta",1,"Global estimate",NA,NA,65,NA,127532,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113086,1,31,981,"Micromussa multipunctata",1,"Global estimate",NA,NA,10,NA,127533,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113223,1,8,975,"Montastraea cavernosa",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127670,90,"Colony maximum diameter",29,"cm",7,"Transect tape",250,"maximum","","",NA,70,NA
+114459,1,8,975,"Montastraea cavernosa",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134846,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",41.38,"maximum","m cavernosa","",NA,NA,NA
+113222,1,8,975,"Montastraea cavernosa",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127669,90,"Colony maximum diameter",29,"cm",7,"Transect tape",100,"maximum","","",NA,6,NA
+113288,1,8,975,"Montastraea cavernosa",1,"Global estimate",NA,NA,687,NA,127885,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"maximum","","",NA,NA,NA
+113087,1,31,999,"Montipora confusa",1,"Global estimate",NA,NA,65,NA,127534,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113088,1,31,1006,"Montipora dilatata",1,"Global estimate",NA,NA,10,NA,127535,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113089,1,31,1011,"Montipora flabellata",1,"Global estimate",NA,NA,10,NA,127536,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113090,1,31,1020,"Montipora hemispherica",1,"Global estimate",NA,NA,65,NA,127537,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113091,1,31,1031,"Montipora meandrina",1,"Global estimate",NA,NA,10,NA,127538,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113093,1,31,1035,"Montipora niugini",1,"Global estimate",NA,NA,65,NA,127540,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113092,1,31,1035,"Montipora niugini",1,"Global estimate",NA,NA,10,NA,127539,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113094,1,31,1039,"Montipora palawanensis",1,"Global estimate",NA,NA,65,NA,127541,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113095,1,31,1040,"Montipora patula",1,"Global estimate",NA,NA,10,NA,127542,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113096,1,31,1044,"Montipora saudii",1,"Global estimate",NA,NA,65,NA,127543,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113097,1,31,1053,"Montipora taiwanensis",1,"Global estimate",NA,NA,65,NA,127544,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113098,1,31,1063,"Montipora verruculosa",1,"Global estimate",NA,NA,10,NA,127545,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113099,1,31,1065,"Moseleya latistellata",1,"Global estimate",NA,NA,13,NA,127546,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"raw_value","","",NA,NA,NA
+113242,1,8,1066,"Mussa angulosa",1,"Global estimate",NA,NA,686,NA,127689,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"maximum","","",NA,NA,NA
+114471,1,8,1066,"Mussa angulosa",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134858,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",14.57,"maximum","m angulosa","",NA,NA,NA
+113100,1,31,1068,"Mussismilia harttii",1,"Global estimate",NA,NA,10,NA,127547,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113101,1,31,1069,"Mussismilia hispida",1,"Global estimate",NA,NA,10,NA,127548,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113102,1,31,654,"Mussismilia leptophylla",1,"Global estimate",NA,NA,10,NA,127549,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113103,1,31,1070,"Mycedium elephantotus",1,"Global estimate",NA,NA,9,NA,127550,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+113104,1,31,1074,"Mycedium steeni",1,"Global estimate",NA,NA,10,NA,127551,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113105,1,31,1074,"Mycedium steeni",1,"Global estimate",NA,NA,65,NA,127552,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113106,1,31,1075,"Mycedium umbra",1,"Global estimate",NA,NA,65,NA,127553,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+114474,1,8,1076,"Mycetophyllia aliciae",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134861,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.62,"maximum","m aliciae","",NA,NA,NA
+114476,1,8,1078,"Mycetophyllia ferox",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134863,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",12.24,"maximum","m ferox","",NA,NA,NA
+114451,1,8,1078,"Mycetophyllia ferox",1,"Global estimate",NA,NA,689,NA,134838,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",22,"maximum","","",NA,NA,NA
+114449,1,8,1079,"Mycetophyllia lamarckiana",1,"Global estimate",NA,NA,689,NA,134836,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",5,"maximum","","",NA,NA,NA
+114475,1,8,1079,"Mycetophyllia lamarckiana",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134862,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.28,"maximum","m lamarchiana","",NA,NA,NA
+113107,1,31,1081,"Nemenzophyllia turbida",1,"Global estimate",NA,NA,10,NA,127554,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113108,1,31,1088,"Oculina arbuscula",1,"Global estimate",NA,NA,10,NA,127555,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113109,1,31,1095,"Oculina varicosa",1,"Global estimate",NA,NA,10,NA,127556,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113285,1,8,973,"Orbicella annularis",1,"Global estimate",NA,NA,687,NA,127882,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",800,"maximum","","",NA,NA,NA
+114461,1,8,973,"Orbicella annularis",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134848,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",39.74,"maximum","m annularis","",NA,NA,NA
+114455,1,8,973,"Orbicella annularis",1,"Global estimate",NA,NA,689,NA,134842,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",650,"maximum","","",NA,NA,NA
+113237,1,8,973,"Orbicella annularis",1,"Global estimate",NA,NA,686,NA,127684,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"maximum","","",NA,NA,NA
+113224,1,8,978,"Orbicella faveolata",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127671,90,"Colony maximum diameter",29,"cm",7,"Transect tape",200,"maximum","","",NA,43,NA
+114458,1,8,978,"Orbicella faveolata",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134845,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",48,"maximum","m cavernosa","",NA,NA,NA
+113286,1,8,978,"Orbicella faveolata",1,"Global estimate",NA,NA,687,NA,127883,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"maximum","","",NA,NA,NA
+113225,1,8,978,"Orbicella faveolata",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127672,90,"Colony maximum diameter",29,"cm",7,"Transect tape",120,"maximum","","",NA,34,NA
+113287,1,8,979,"Orbicella franksi",1,"Global estimate",NA,NA,687,NA,127884,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"maximum","","",NA,NA,NA
+114469,1,8,979,"Orbicella franksi",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134856,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",14.83,"maximum","m franksi","",NA,NA,NA
+113110,1,31,1103,"Oulophyllia crispa",1,"Global estimate",NA,NA,38,NA,127557,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113111,1,31,1103,"Oulophyllia crispa",1,"Global estimate",NA,NA,10,NA,127558,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113113,1,31,1105,"Oxypora convoluta",1,"Global estimate",NA,NA,65,NA,127560,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113112,1,31,1105,"Oxypora convoluta",1,"Global estimate",NA,NA,10,NA,127559,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113114,1,31,1107,"Oxypora egyptensis",1,"Global estimate",NA,NA,10,NA,127561,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113115,1,31,1107,"Oxypora egyptensis",1,"Global estimate",NA,NA,65,NA,127562,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113118,1,31,1117,"Pachyseris rugosa",1,"Global estimate",NA,NA,9,NA,127565,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+113117,1,31,1117,"Pachyseris rugosa",1,"Global estimate",NA,NA,10,NA,127564,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113116,1,31,1117,"Pachyseris rugosa",1,"Global estimate",NA,NA,38,NA,127563,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",800,"raw_value","","",NA,NA,NA
+113119,1,31,1118,"Pachyseris speciosa",1,"Global estimate",NA,NA,38,NA,127566,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",2,"raw_value","","",NA,NA,NA
+113120,1,31,983,"Paramontastraea serageldini",1,"Global estimate",NA,NA,10,NA,127567,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+113121,1,31,983,"Paramontastraea serageldini",1,"Global estimate",NA,NA,65,NA,127568,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",80,"raw_value","","",NA,NA,NA
+113122,1,31,1384,"Parascolymia vitiensis",1,"Global estimate",NA,NA,38,NA,127569,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",6,"raw_value","","",NA,NA,NA
+113124,1,31,1384,"Parascolymia vitiensis",1,"Global estimate",NA,NA,9,NA,127571,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",21.5,"raw_value","","",NA,NA,NA
+113123,1,31,1384,"Parascolymia vitiensis",1,"Global estimate",NA,NA,10,NA,127570,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",6,"raw_value","","",NA,NA,NA
+113125,1,31,1148,"Pavona bipartita",1,"Global estimate",NA,NA,10,NA,127572,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113126,1,31,1149,"Pavona cactus",1,"Global estimate",NA,NA,38,NA,127573,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+113127,1,31,1151,"Pavona clavus",1,"Global estimate",NA,NA,9,NA,127574,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",2000,"raw_value","","",NA,NA,NA
+114493,1,8,1153,"Pavona decussata",399,"Kushimoto‐Shirahama, Japan",33.505328,135.630819,691,NA,134880,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"maximum","","",NA,NA,NA
+113128,1,31,1161,"Pavona maldivensis",1,"Global estimate",NA,NA,9,NA,127575,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113129,1,31,1162,"Pavona minuta",1,"Global estimate",NA,NA,38,NA,127576,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+113130,1,31,1162,"Pavona minuta",1,"Global estimate",NA,NA,10,NA,127577,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113131,1,31,1166,"Pectinia africanus",1,"Global estimate",NA,NA,10,NA,127578,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113132,1,31,1166,"Pectinia africanus",1,"Global estimate",NA,NA,65,NA,127579,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113134,1,31,1171,"Pectinia lactuca",1,"Global estimate",NA,NA,10,NA,127581,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113133,1,31,1171,"Pectinia lactuca",1,"Global estimate",NA,NA,38,NA,127580,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113135,1,31,1172,"Pectinia maxima",1,"Global estimate",NA,NA,10,NA,127582,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113136,1,31,1173,"Pectinia paeonia",1,"Global estimate",NA,NA,9,NA,127583,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+98045,1,8,1180,"Phacelocyathus flos",375,"Havana, Cuba",23.21193,-82.336305,628,NA,107945,90,"Colony maximum diameter",29,"cm",NA,"",30,"raw_value","","",NA,NA,NA
+113137,1,31,1190,"Physogyra lichtensteini",1,"Global estimate",NA,NA,9,NA,127584,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+98069,1,8,1191,"Placotrochides frustum",1,"Global estimate",NA,NA,628,NA,107969,90,"Colony maximum diameter",28,"mm",NA,"",5,"raw_value","","",NA,NA,NA
+113138,1,31,1196,"Platygyra carnosus",1,"Global estimate",NA,NA,65,NA,127585,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+113139,1,31,1214,"Plerogyra discus",1,"Global estimate",NA,NA,65,NA,127586,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113140,1,31,1218,"Plerogyra sinuosa",1,"Global estimate",NA,NA,9,NA,127587,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113142,1,31,1221,"Plesiastrea versipora",1,"Global estimate",NA,NA,10,NA,127589,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+113143,1,31,1221,"Plesiastrea versipora",1,"Global estimate",NA,NA,13,NA,127590,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113141,1,31,1221,"Plesiastrea versipora",1,"Global estimate",NA,NA,38,NA,127588,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",300,"raw_value","","",NA,NA,NA
+113144,1,31,741,"Pleuractis granulosa",1,"Global estimate",NA,NA,38,NA,127591,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.5,"raw_value","","",NA,NA,NA
+113146,1,31,741,"Pleuractis granulosa",1,"Global estimate",NA,NA,9,NA,127593,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.5,"raw_value","","",NA,NA,NA
+113145,1,31,741,"Pleuractis granulosa",1,"Global estimate",NA,NA,10,NA,127592,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.5,"raw_value","","",NA,NA,NA
+113148,1,31,747,"Pleuractis paumotensis",1,"Global estimate",NA,NA,10,NA,127595,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"raw_value","","",NA,NA,NA
+113147,1,31,747,"Pleuractis paumotensis",1,"Global estimate",NA,NA,38,NA,127594,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"raw_value","","",NA,NA,NA
+113149,1,31,747,"Pleuractis paumotensis",1,"Global estimate",NA,NA,9,NA,127596,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"raw_value","","",NA,NA,NA
+113150,1,31,753,"Pleuractis seychellensis",1,"Global estimate",NA,NA,10,NA,127597,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+113151,1,31,757,"Pleuractis taiwanensis",1,"Global estimate",NA,NA,10,NA,127598,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",28,"raw_value","","",NA,NA,NA
+113152,1,31,1224,"Pocillopora damicornis",1,"Global estimate",NA,NA,10,NA,127599,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113153,1,31,1225,"Pocillopora danae",1,"Global estimate",NA,NA,10,NA,127600,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113155,1,31,1226,"Pocillopora effusa",1,"Global estimate",NA,NA,65,NA,127602,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113154,1,31,1226,"Pocillopora effusa",1,"Global estimate",NA,NA,10,NA,127601,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113156,1,31,1228,"Pocillopora eydouxi",1,"Global estimate",NA,NA,10,NA,127603,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113158,1,31,1229,"Pocillopora fungiformis",1,"Global estimate",NA,NA,65,NA,127605,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113157,1,31,1229,"Pocillopora fungiformis",1,"Global estimate",NA,NA,10,NA,127604,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",200,"raw_value","","",NA,NA,NA
+113159,1,31,1230,"Pocillopora indiania",1,"Global estimate",NA,NA,10,NA,127606,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113160,1,31,1230,"Pocillopora indiania",1,"Global estimate",NA,NA,65,NA,127607,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113161,1,31,1233,"Pocillopora ligulata",1,"Global estimate",NA,NA,10,NA,127608,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113162,1,31,1234,"Pocillopora meandrina",1,"Global estimate",NA,NA,38,NA,127609,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113163,1,31,1237,"Pocillopora verrucosa",1,"Global estimate",NA,NA,10,NA,127610,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113164,1,31,1240,"Podabacia crustacea",1,"Global estimate",NA,NA,38,NA,127611,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113165,1,31,1240,"Podabacia crustacea",1,"Global estimate",NA,NA,9,NA,127612,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",150,"raw_value","","",NA,NA,NA
+113166,1,31,1243,"Podabacia sinai",1,"Global estimate",NA,NA,65,NA,127613,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+114473,1,8,1269,"Porites astreoides",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134860,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",13.53,"maximum","p astreoides","",NA,NA,NA
+113227,1,8,1269,"Porites astreoides",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127674,90,"Colony maximum diameter",29,"cm",7,"Transect tape",55,"maximum","","",NA,39,NA
+113226,1,8,1269,"Porites astreoides",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127673,90,"Colony maximum diameter",29,"cm",7,"Transect tape",30,"maximum","","",NA,13,NA
+113167,1,31,1275,"Porites brighami",1,"Global estimate",NA,NA,10,NA,127614,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113234,1,8,1279,"Porites compressa",1,"Global estimate",NA,NA,684,NA,127681,90,"Colony maximum diameter",29,"cm",NA,"",123,"maximum","","",NA,NA,NA
+113168,1,31,1281,"Porites cylindrica",1,"Global estimate",NA,NA,84,NA,127615,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1000,"raw_value","","",NA,NA,NA
+98085,1,8,1282,"Porites decasepta",1,"Global estimate",NA,NA,633,NA,107985,90,"Colony maximum diameter",29,"cm",NA,"",7,"raw_value","","",NA,NA,NA
+113170,1,31,1284,"Porites densa",1,"Global estimate",NA,NA,10,NA,127617,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+113169,1,31,1284,"Porites densa",1,"Global estimate",NA,NA,38,NA,127616,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+113171,1,31,1284,"Porites densa",1,"Global estimate",NA,NA,84,NA,127618,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+113235,1,8,1291,"Porites evermanni",1,"Global estimate",NA,NA,119,NA,127682,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",120,"maximum","","",NA,NA,NA
+113172,1,31,1293,"Porites flavus",1,"Global estimate",NA,NA,65,NA,127619,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",40,"raw_value","","",NA,NA,NA
+113173,1,31,1296,"Porites harrisoni",1,"Global estimate",NA,NA,10,NA,127620,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113174,1,31,1296,"Porites harrisoni",1,"Global estimate",NA,NA,65,NA,127621,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+99247,1,64,1303,"Porites lobata",2,"Great Barrier Reef (GBR)",-17.832374,146.821289,672,NA,113483,90,"Colony maximum diameter",29,"cm",NA,"",685,"raw_value","","",NA,NA,NA
+113175,1,31,1303,"Porites lobata",1,"Global estimate",NA,NA,10,NA,127622,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+113176,1,31,1304,"Porites lutea",1,"Global estimate",NA,NA,10,NA,127623,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+113177,1,31,1305,"Porites mayeri",1,"Global estimate",NA,NA,10,NA,127624,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+113178,1,31,1306,"Porites monticulosa",1,"Global estimate",NA,NA,10,NA,127625,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113180,1,31,1307,"Porites murrayensis",1,"Global estimate",NA,NA,10,NA,127627,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113179,1,31,1307,"Porites murrayensis",1,"Global estimate",NA,NA,38,NA,127626,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113181,1,31,1308,"Porites myrmidonensis",1,"Global estimate",NA,NA,10,NA,127628,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+113228,1,8,1316,"Porites porites",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127675,90,"Colony maximum diameter",29,"cm",7,"Transect tape",30,"maximum","","",NA,12,NA
+114467,1,8,1316,"Porites porites",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134854,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",17.59,"maximum","p porites","",NA,NA,NA
+114457,1,8,1316,"Porites porites",1,"Global estimate",NA,NA,689,NA,134844,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",22,"maximum","","",NA,NA,NA
+113229,1,8,1316,"Porites porites",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127676,90,"Colony maximum diameter",29,"cm",7,"Transect tape",10,"maximum","","",NA,4,NA
+113182,1,31,1319,"Porites rugosa",1,"Global estimate",NA,NA,65,NA,127629,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113183,1,31,1320,"Porites rus",1,"Global estimate",NA,NA,10,NA,127630,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+99246,1,64,1320,"Porites rus",395,"Chumbe Island, Zanzibar",-6.0538,39.4692,671,NA,113481,90,"Colony maximum diameter",29,"cm",NA,"",500,"maximum","","",NA,NA,NA
+99246,1,64,1320,"Porites rus",395,"Chumbe Island, Zanzibar",-6.0538,39.4692,671,NA,113482,143,"Water depth",9,"m",NA,"",2,"mean","1","range",3,NA,NA
+113186,1,31,1324,"Porites stephensoni",1,"Global estimate",NA,NA,84,NA,127633,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113184,1,31,1324,"Porites stephensoni",1,"Global estimate",NA,NA,38,NA,127631,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113185,1,31,1324,"Porites stephensoni",1,"Global estimate",NA,NA,10,NA,127632,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+99327,1,8,1326,"Porites sverdrupi",1,"Global estimate",NA,NA,676,NA,113754,90,"Colony maximum diameter",29,"cm",NA,"",30,"maximum","","",NA,NA,NA
+113187,1,31,1328,"Porites vaughani",1,"Global estimate",NA,NA,84,NA,127634,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113188,1,31,1337,"Psammocora contigua",1,"Global estimate",NA,NA,12,NA,127635,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113189,1,31,1338,"Psammocora digitata",1,"Global estimate",NA,NA,12,NA,127636,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",6.5,"raw_value","","",NA,NA,NA
+114466,1,8,588,"Pseudodiploria clivosa",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134853,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",19.4,"maximum","d clivosa","",NA,NA,NA
+114456,1,8,588,"Pseudodiploria clivosa",1,"Global estimate",NA,NA,689,NA,134843,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",61,"maximum","","",NA,NA,NA
+113239,1,8,588,"Pseudodiploria clivosa",1,"Global estimate",NA,NA,686,NA,127686,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",25,"maximum","","",NA,NA,NA
+113221,1,8,590,"Pseudodiploria strigosa",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127668,90,"Colony maximum diameter",29,"cm",7,"Transect tape",80,"maximum","","",NA,11,NA
+113220,1,8,590,"Pseudodiploria strigosa",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127667,90,"Colony maximum diameter",29,"cm",7,"Transect tape",100,"maximum","","",NA,8,NA
+114463,1,8,590,"Pseudodiploria strigosa",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134850,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",29.57,"maximum","d strigosa","",NA,NA,NA
+113191,1,31,1351,"Pseudosiderastrea tayamai",1,"Global estimate",NA,NA,10,NA,127638,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16,"raw_value","","",NA,NA,NA
+113192,1,31,1351,"Pseudosiderastrea tayamai",1,"Global estimate",NA,NA,9,NA,127639,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16,"raw_value","","",NA,NA,NA
+113190,1,31,1351,"Pseudosiderastrea tayamai",1,"Global estimate",NA,NA,38,NA,127637,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",16,"raw_value","","",NA,NA,NA
+113193,1,31,1376,"Sandalolitha robusta",1,"Global estimate",NA,NA,9,NA,127640,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113194,1,31,1378,"Schizoculina africana",1,"Global estimate",NA,NA,10,NA,127641,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113195,1,31,1379,"Schizoculina fissipara",1,"Global estimate",NA,NA,10,NA,127642,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113196,1,31,1382,"Scolymia cubensis",1,"Global estimate",NA,NA,10,NA,127643,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113197,1,31,1389,"Seriatopora guttata",1,"Global estimate",NA,NA,10,NA,127644,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113198,1,31,1389,"Seriatopora guttata",1,"Global estimate",NA,NA,65,NA,127645,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113199,1,31,1392,"Siderastrea glynni",1,"Global estimate",NA,NA,10,NA,127646,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+114487,1,8,1393,"Siderastrea radians",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134874,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",4.22,"maximum","s radians","",NA,NA,NA
+113200,1,31,1393,"Siderastrea radians",1,"Global estimate",NA,NA,10,NA,127647,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113201,1,31,1394,"Siderastrea savignyana",1,"Global estimate",NA,NA,10,NA,127648,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+114464,1,8,1395,"Siderastrea siderea",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134851,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",27.07,"maximum","s siderea","",NA,NA,NA
+113231,1,8,1395,"Siderastrea siderea",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127678,90,"Colony maximum diameter",29,"cm",7,"Transect tape",130,"maximum","","",NA,99,NA
+113230,1,8,1395,"Siderastrea siderea",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127677,90,"Colony maximum diameter",29,"cm",7,"Transect tape",70,"maximum","","",NA,66,NA
+113202,1,31,1395,"Siderastrea siderea",1,"Global estimate",NA,NA,10,NA,127649,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113233,1,8,1414,"Stephanocoenia intersepta",397,"Cheeca Patch, Florida",24.907447,-80.61826,346,NA,127680,90,"Colony maximum diameter",29,"cm",7,"Transect tape",60,"maximum","","",NA,11,NA
+114452,1,8,1414,"Stephanocoenia intersepta",1,"Global estimate",NA,NA,689,NA,134839,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",58,"maximum","","",NA,NA,NA
+114477,1,8,1414,"Stephanocoenia intersepta",56,"Lee Stocking Island",23.76725556,-76.09464167,690,NA,134864,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",11.9,"maximum","s intersepta","",NA,NA,NA
+113203,1,31,1414,"Stephanocoenia intersepta",1,"Global estimate",NA,NA,10,NA,127650,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",30,"raw_value","","",NA,NA,NA
+113232,1,8,1414,"Stephanocoenia intersepta",396,"Coral Gardens, Florida",24.823445,-80.755097,346,NA,127679,90,"Colony maximum diameter",29,"cm",7,"Transect tape",30,"maximum","","",NA,4,NA
+113204,1,31,1431,"Stylaraea punctata",1,"Global estimate",NA,NA,38,NA,127651,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",15,"raw_value","","",NA,NA,NA
+113205,1,31,1431,"Stylaraea punctata",1,"Global estimate",NA,NA,10,NA,127652,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1.5,"raw_value","","",NA,NA,NA
+113206,1,31,1431,"Stylaraea punctata",1,"Global estimate",NA,NA,84,NA,127653,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",1.5,"raw_value","","",NA,NA,NA
+113207,1,31,1434,"Stylocoeniella guentheri",1,"Global estimate",NA,NA,38,NA,127654,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",50,"raw_value","","",NA,NA,NA
+113208,1,31,1438,"Stylophora madagascarensis",1,"Global estimate",NA,NA,65,NA,127655,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113209,1,31,1439,"Stylophora mamillata",1,"Global estimate",NA,NA,10,NA,127656,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",10,"raw_value","","",NA,NA,NA
+113210,1,31,1446,"Symphyllia hassi",1,"Global estimate",NA,NA,10,NA,127657,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",20,"raw_value","","",NA,NA,NA
+113211,1,31,1465,"Trachyphyllia geoffroyi",1,"Global estimate",NA,NA,38,NA,127658,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",8,"raw_value","","",NA,NA,NA
+113212,1,31,1541,"Turbinaria frondens",1,"Global estimate",NA,NA,9,NA,127659,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",400,"raw_value","","",NA,NA,NA
+113213,1,31,1544,"Turbinaria mesenterina",1,"Global estimate",NA,NA,38,NA,127660,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113214,1,31,1544,"Turbinaria mesenterina",1,"Global estimate",NA,NA,10,NA,127661,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113215,1,31,1547,"Turbinaria radicalis",1,"Global estimate",NA,NA,9,NA,127662,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",100,"raw_value","","",NA,NA,NA
+113216,1,31,1548,"Turbinaria reniformis",1,"Global estimate",NA,NA,9,NA,127663,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",500,"raw_value","","",NA,NA,NA
+113217,1,31,1555,"Zoopilus echinatus",1,"Global estimate",NA,NA,10,NA,127664,90,"Colony maximum diameter",29,"cm",22,"Derived from textual description",60,"raw_value","","",NA,NA,NA

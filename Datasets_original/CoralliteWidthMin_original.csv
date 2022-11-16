@@ -1,0 +1,683 @@
+"observation_id","access","user_id","specie_id","specie_name","location_id","location_name","latitude","longitude","resource_id","resource_secondary_id","measurement_id","trait_id","trait_name","standard_id","standard_unit","methodology_id","methodology_name","value","value_type","precision","precision_type","precision_upper","replicates","notes"
+109423,1,31,14,"Acanthastrea subechinata",1,"Global estimate",NA,NA,65,NA,123870,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.8,"raw_value",NA,NA,NA,NA,NA
+109425,1,31,16,"Acropora abrolhosensis",1,"Global estimate",NA,NA,677,NA,123872,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.9,"raw_value",NA,NA,NA,NA,NA
+109427,1,31,17,"Acropora abrotanoides",1,"Global estimate",NA,NA,677,NA,123874,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109429,1,31,18,"Acropora aculeus",1,"Global estimate",NA,NA,677,NA,123876,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109431,1,31,19,"Acropora acuminata",1,"Global estimate",NA,NA,677,NA,123878,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109433,1,31,21,"Acropora anthocercis",1,"Global estimate",NA,NA,677,NA,123880,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109435,1,31,23,"Acropora arabensis",1,"Global estimate",NA,NA,677,NA,123882,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109437,1,31,24,"Acropora aspera",1,"Global estimate",NA,NA,677,NA,123884,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+109439,1,31,25,"Acropora austera",1,"Global estimate",NA,NA,677,NA,123886,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109441,1,31,26,"Acropora awi",1,"Global estimate",NA,NA,677,NA,123888,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109443,1,31,28,"Acropora batunai",1,"Global estimate",NA,NA,677,NA,123890,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.2,"raw_value",NA,NA,NA,NA,NA
+109445,1,31,32,"Acropora bushyensis",1,"Global estimate",NA,NA,677,NA,123892,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109447,1,31,34,"Acropora carduus",1,"Global estimate",NA,NA,677,NA,123894,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109449,1,31,35,"Acropora caroliniana",1,"Global estimate",NA,NA,677,NA,123896,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109451,1,31,36,"Acropora cerealis",1,"Global estimate",NA,NA,677,NA,123898,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.3,"raw_value",NA,NA,NA,NA,NA
+109453,1,31,37,"Acropora cervicornis",1,"Global estimate",NA,NA,677,NA,123900,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.1,"raw_value",NA,NA,NA,NA,NA
+109455,1,31,38,"Acropora chesterfieldensis",1,"Global estimate",NA,NA,677,NA,123902,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109457,1,31,39,"Acropora clathrata",1,"Global estimate",NA,NA,677,NA,123904,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109459,1,31,46,"Acropora cytherea",1,"Global estimate",NA,NA,677,NA,123906,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109461,1,31,47,"Acropora dendrum",1,"Global estimate",NA,NA,677,NA,123908,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109463,1,31,48,"Acropora derawanensis",1,"Global estimate",NA,NA,677,NA,123910,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109465,1,31,49,"Acropora desalwii",1,"Global estimate",NA,NA,677,NA,123912,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109467,1,31,50,"Acropora digitifera",1,"Global estimate",NA,NA,677,NA,123914,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109469,1,31,51,"Acropora divaricata",1,"Global estimate",NA,NA,677,NA,123916,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109471,1,31,52,"Acropora donei",1,"Global estimate",NA,NA,677,NA,123918,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109473,1,31,53,"Acropora downingi",1,"Global estimate",NA,NA,677,NA,123920,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109475,1,31,54,"Acropora echinata",1,"Global estimate",NA,NA,677,NA,123922,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109477,1,31,56,"Acropora elegans",1,"Global estimate",NA,NA,677,NA,123924,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109479,1,31,59,"Acropora elseyi",1,"Global estimate",NA,NA,677,NA,123926,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109481,1,31,60,"Acropora eurystoma",1,"Global estimate",NA,NA,677,NA,123928,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+109483,1,31,65,"Acropora florida",1,"Global estimate",NA,NA,677,NA,123930,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109485,1,31,68,"Acropora gemmifera",1,"Global estimate",NA,NA,677,NA,123932,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+109487,1,31,69,"Acropora glauca",1,"Global estimate",NA,NA,677,NA,123934,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.9,"raw_value",NA,NA,NA,NA,NA
+109489,1,31,70,"Acropora globiceps",1,"Global estimate",NA,NA,677,NA,123936,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+109491,1,31,72,"Acropora grandis",1,"Global estimate",NA,NA,677,NA,123938,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109493,1,31,73,"Acropora granulosa",1,"Global estimate",NA,NA,677,NA,123940,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109495,1,31,75,"Acropora halmaherae",1,"Global estimate",NA,NA,677,NA,123942,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109497,1,31,76,"Acropora hemprichii",1,"Global estimate",NA,NA,677,NA,123944,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109499,1,31,77,"Acropora hoeksemai",1,"Global estimate",NA,NA,677,NA,123946,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109501,1,31,78,"Acropora horrida",1,"Global estimate",NA,NA,677,NA,123948,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109503,1,31,79,"Acropora humilis",1,"Global estimate",NA,NA,677,NA,123950,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+109505,1,31,80,"Acropora hyacinthus",1,"Global estimate",NA,NA,677,NA,123952,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109507,1,31,82,"Acropora indonesia",1,"Global estimate",NA,NA,677,NA,123954,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109509,1,31,119,"Acropora intermedia",1,"Global estimate",NA,NA,677,NA,123956,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109511,1,31,86,"Acropora jacquelineae",1,"Global estimate",NA,NA,677,NA,123958,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.1,"raw_value",NA,NA,NA,NA,NA
+109513,1,31,87,"Acropora japonica",1,"Global estimate",NA,NA,677,NA,123960,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109515,1,31,89,"Acropora kimbeensis",1,"Global estimate",NA,NA,677,NA,123962,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109517,1,31,90,"Acropora kirstyae",1,"Global estimate",NA,NA,677,NA,123964,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.2,"raw_value",NA,NA,NA,NA,NA
+109519,1,31,91,"Acropora kosurini",1,"Global estimate",NA,NA,677,NA,123966,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109521,1,31,93,"Acropora latistella",1,"Global estimate",NA,NA,677,NA,123968,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109523,1,31,95,"Acropora listeri",1,"Global estimate",NA,NA,677,NA,123970,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109525,1,31,96,"Acropora loisetteae",1,"Global estimate",NA,NA,677,NA,123972,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+109527,1,31,97,"Acropora lokani",1,"Global estimate",NA,NA,677,NA,123974,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109529,1,31,98,"Acropora longicyathus",1,"Global estimate",NA,NA,677,NA,123976,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109531,1,31,99,"Acropora loripes",1,"Global estimate",NA,NA,677,NA,123978,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109533,1,31,100,"Acropora loveli",1,"Global estimate",NA,NA,677,NA,123980,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.9,"raw_value",NA,NA,NA,NA,NA
+109535,1,31,101,"Acropora lutkeni",1,"Global estimate",NA,NA,677,NA,123982,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109537,1,31,107,"Acropora microclados",1,"Global estimate",NA,NA,677,NA,123984,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109539,1,31,108,"Acropora microphthalma",1,"Global estimate",NA,NA,677,NA,123986,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109541,1,31,109,"Acropora millepora",1,"Global estimate",NA,NA,677,NA,123988,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109543,1,31,112,"Acropora monticulosa",1,"Global estimate",NA,NA,677,NA,123990,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109545,1,31,113,"Acropora mossambica",1,"Global estimate",NA,NA,677,NA,123992,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109547,1,31,114,"Acropora multiacuta",1,"Global estimate",NA,NA,677,NA,123994,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109549,1,31,66,"Acropora muricata",1,"Global estimate",NA,NA,677,NA,123996,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109551,1,31,115,"Acropora nana",1,"Global estimate",NA,NA,677,NA,123998,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109553,1,31,116,"Acropora nasuta",1,"Global estimate",NA,NA,677,NA,124000,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109555,1,31,124,"Acropora palmata",1,"Global estimate",NA,NA,677,NA,124002,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109557,1,31,125,"Acropora palmerae",1,"Global estimate",NA,NA,677,NA,124004,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.9,"raw_value",NA,NA,NA,NA,NA
+109559,1,31,126,"Acropora paniculata",1,"Global estimate",NA,NA,677,NA,124006,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109561,1,31,127,"Acropora papillare",1,"Global estimate",NA,NA,677,NA,124008,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109563,1,31,133,"Acropora pharaonis",1,"Global estimate",NA,NA,677,NA,124010,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109565,1,31,134,"Acropora pichoni",1,"Global estimate",NA,NA,677,NA,124012,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109567,1,31,138,"Acropora plumosa",1,"Global estimate",NA,NA,677,NA,124014,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109569,1,31,140,"Acropora polystoma",1,"Global estimate",NA,NA,677,NA,124016,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109571,1,31,141,"Acropora prolifera",1,"Global estimate",NA,NA,677,NA,124018,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109573,1,31,144,"Acropora pruinosa",1,"Global estimate",NA,NA,677,NA,124020,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.1,"raw_value",NA,NA,NA,NA,NA
+109575,1,31,145,"Acropora pulchra",1,"Global estimate",NA,NA,677,NA,124022,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109577,1,31,147,"Acropora retusa",1,"Global estimate",NA,NA,677,NA,124024,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109579,1,31,148,"Acropora ridzwani",1,"Global estimate",NA,NA,31,NA,124026,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.8,"raw_value",NA,NA,NA,NA,NA
+109581,1,31,149,"Acropora robusta",1,"Global estimate",NA,NA,677,NA,124028,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109583,1,31,150,"Acropora rongelapensis",1,"Global estimate",NA,NA,677,NA,124030,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109585,1,31,152,"Acropora roseni",1,"Global estimate",NA,NA,677,NA,124032,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+109587,1,31,153,"Acropora rudis",1,"Global estimate",NA,NA,677,NA,124034,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109589,1,31,155,"Acropora russelli",1,"Global estimate",NA,NA,677,NA,124036,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109591,1,31,156,"Acropora samoensis",1,"Global estimate",NA,NA,677,NA,124038,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109593,1,31,157,"Acropora sarmentosa",1,"Global estimate",NA,NA,677,NA,124040,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+109595,1,31,160,"Acropora secale",1,"Global estimate",NA,NA,677,NA,124042,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.3,"raw_value",NA,NA,NA,NA,NA
+109597,1,31,162,"Acropora selago",1,"Global estimate",NA,NA,677,NA,124044,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109599,1,31,164,"Acropora simplex",1,"Global estimate",NA,NA,677,NA,124046,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109601,1,31,165,"Acropora solitaryensis",1,"Global estimate",NA,NA,677,NA,124048,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109603,1,31,167,"Acropora spathulata",1,"Global estimate",NA,NA,677,NA,124050,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109605,1,31,168,"Acropora speciosa",1,"Global estimate",NA,NA,677,NA,124052,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.3,"raw_value",NA,NA,NA,NA,NA
+109607,1,31,169,"Acropora spicifera",1,"Global estimate",NA,NA,677,NA,124054,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109609,1,31,170,"Acropora squarrosa",1,"Global estimate",NA,NA,677,NA,124056,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109611,1,31,171,"Acropora stoddarti",1,"Global estimate",NA,NA,677,NA,124058,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109613,1,31,172,"Acropora striata",1,"Global estimate",NA,NA,677,NA,124060,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109615,1,31,173,"Acropora subglabra",1,"Global estimate",NA,NA,677,NA,124062,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.3,"raw_value",NA,NA,NA,NA,NA
+109617,1,31,174,"Acropora subulata",1,"Global estimate",NA,NA,677,NA,124064,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109619,1,31,175,"Acropora suharsonoi",1,"Global estimate",NA,NA,677,NA,124066,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109621,1,31,176,"Acropora sukarnoi",1,"Global estimate",NA,NA,677,NA,124068,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109623,1,31,178,"Acropora tanegashimensis",1,"Global estimate",NA,NA,677,NA,124070,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.6,"raw_value",NA,NA,NA,NA,NA
+109625,1,31,179,"Acropora tenella",1,"Global estimate",NA,NA,677,NA,124072,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109627,1,31,180,"Acropora tenuis",1,"Global estimate",NA,NA,677,NA,124074,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109629,1,31,184,"Acropora torihalimeda",1,"Global estimate",NA,NA,677,NA,124076,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109631,1,31,186,"Acropora tortuosa",1,"Global estimate",NA,NA,677,NA,124078,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+109633,1,31,187,"Acropora tumida",1,"Global estimate",NA,NA,677,NA,124080,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+109635,1,31,188,"Acropora turaki",1,"Global estimate",NA,NA,677,NA,124082,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.4,"raw_value",NA,NA,NA,NA,NA
+109637,1,31,190,"Acropora valenciennesi",1,"Global estimate",NA,NA,677,NA,124084,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109639,1,31,191,"Acropora valida",1,"Global estimate",NA,NA,677,NA,124086,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109641,1,31,193,"Acropora variolosa",1,"Global estimate",NA,NA,677,NA,124088,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+109643,1,31,194,"Acropora vaughani",1,"Global estimate",NA,NA,677,NA,124090,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+109645,1,31,196,"Acropora verweyi",1,"Global estimate",NA,NA,677,NA,124092,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109647,1,31,197,"Acropora walindii",1,"Global estimate",NA,NA,677,NA,124094,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.3,"raw_value",NA,NA,NA,NA,NA
+109649,1,31,199,"Acropora willisae",1,"Global estimate",NA,NA,677,NA,124096,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.2,"raw_value",NA,NA,NA,NA,NA
+109651,1,31,200,"Acropora yongei",1,"Global estimate",NA,NA,677,NA,124098,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+109653,1,31,201,"Agaricia agaricites",1,"Global estimate",NA,NA,10,NA,124100,181,"Corallite width minimum",28,"mm",15,"Image analysis",3,"raw_value",NA,NA,NA,NA,NA
+109655,1,31,202,"Agaricia fragilis",1,"Global estimate",NA,NA,10,NA,124102,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+109657,1,31,203,"Agaricia grahamae",1,"Global estimate",NA,NA,10,NA,124104,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+109659,1,31,204,"Agaricia humilis",1,"Global estimate",NA,NA,10,NA,124106,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+109661,1,31,205,"Agaricia lamarcki",1,"Global estimate",NA,NA,10,NA,124108,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.6,"raw_value",NA,NA,NA,NA,NA
+109663,1,31,206,"Agaricia tenuifolia",1,"Global estimate",NA,NA,10,NA,124110,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+109665,1,31,207,"Agaricia undata",1,"Global estimate",NA,NA,10,NA,124112,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.3,"raw_value",NA,NA,NA,NA,NA
+109667,1,31,209,"Alveopora allingi",1,"Global estimate",NA,NA,10,NA,124114,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+109669,1,31,210,"Alveopora catalai",1,"Global estimate",NA,NA,10,NA,124116,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+109671,1,31,211,"Alveopora daedalea",1,"Global estimate",NA,NA,10,NA,124118,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+109673,1,31,212,"Alveopora excelsa",1,"Global estimate",NA,NA,10,NA,124120,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+109675,1,31,213,"Alveopora fenestrata",1,"Global estimate",NA,NA,10,NA,124122,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+109677,1,31,214,"Alveopora gigas",1,"Global estimate",NA,NA,10,NA,124124,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+109679,1,31,215,"Alveopora japonica",1,"Global estimate",NA,NA,10,NA,124126,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+109681,1,31,216,"Alveopora marionensis",1,"Global estimate",NA,NA,10,NA,124128,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+109683,1,31,217,"Alveopora minuta",1,"Global estimate",NA,NA,65,NA,124130,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+109685,1,31,218,"Alveopora ocellata",1,"Global estimate",NA,NA,10,NA,124132,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+109687,1,31,219,"Alveopora spongiosa",1,"Global estimate",NA,NA,10,NA,124134,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+109689,1,31,220,"Alveopora tizardi",1,"Global estimate",NA,NA,10,NA,124136,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+109691,1,31,221,"Alveopora verrilliana",1,"Global estimate",NA,NA,10,NA,124138,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+109693,1,31,222,"Alveopora viridis",1,"Global estimate",NA,NA,10,NA,124140,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+109695,1,31,223,"Anacropora forbesi",1,"Global estimate",NA,NA,10,NA,124142,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.2,"raw_value",NA,NA,NA,NA,NA
+109697,1,31,224,"Anacropora matthai",1,"Global estimate",NA,NA,10,NA,124144,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+109699,1,31,225,"Anacropora pillai",1,"Global estimate",NA,NA,65,NA,124146,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+109701,1,31,226,"Anacropora puertogalerae",1,"Global estimate",NA,NA,297,NA,124148,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+109703,1,31,227,"Anacropora reticulata",1,"Global estimate",NA,NA,10,NA,124150,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+109705,1,31,228,"Anacropora spinosa",1,"Global estimate",NA,NA,10,NA,124152,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+109707,1,31,229,"Anacropora spumosa",1,"Global estimate",NA,NA,65,NA,124154,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+109709,1,31,230,"Anomastraea irregularis",1,"Global estimate",NA,NA,297,NA,124156,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.2,"raw_value",NA,NA,NA,NA,NA
+109711,1,31,245,"Astrangia atrata",1,"Global estimate",NA,NA,10,NA,124158,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.4,"raw_value",NA,NA,NA,NA,NA
+109713,1,31,974,"Astrea annuligera",1,"Global estimate",NA,NA,10,NA,124160,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.6,"raw_value",NA,NA,NA,NA,NA
+109715,1,31,977,"Astrea curta",1,"Global estimate",NA,NA,10,NA,124162,181,"Corallite width minimum",28,"mm",15,"Image analysis",7,"raw_value",NA,NA,NA,NA,NA
+109717,1,31,1220,"Astrea devantieri",1,"Global estimate",NA,NA,65,NA,124164,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+109719,1,31,261,"Astreopora cucullata",1,"Global estimate",NA,NA,10,NA,124166,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+109721,1,31,263,"Astreopora expansa",1,"Global estimate",NA,NA,10,NA,124168,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+109723,1,31,264,"Astreopora explanata",1,"Global estimate",NA,NA,679,NA,124170,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+109725,1,31,265,"Astreopora gracilis",1,"Global estimate",NA,NA,10,NA,124172,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+109727,1,31,266,"Astreopora incrustans",1,"Global estimate",NA,NA,10,NA,124174,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+109729,1,31,268,"Astreopora listeri",1,"Global estimate",NA,NA,10,NA,124176,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+109731,1,31,269,"Astreopora macrostoma",1,"Global estimate",NA,NA,10,NA,124178,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+109733,1,31,270,"Astreopora moretonensis",1,"Global estimate",NA,NA,10,NA,124180,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+109735,1,31,271,"Astreopora myriophthalma",1,"Global estimate",NA,NA,10,NA,124182,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+109737,1,31,272,"Astreopora ocellata",1,"Global estimate",NA,NA,10,NA,124184,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+109739,1,31,273,"Astreopora randalli",1,"Global estimate",NA,NA,10,NA,124186,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+109741,1,31,274,"Astreopora scabra",1,"Global estimate",NA,NA,10,NA,124188,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+109743,1,31,275,"Astreopora suggesta",1,"Global estimate",NA,NA,10,NA,124190,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+109745,1,31,282,"Australogyra zelli",1,"Global estimate",NA,NA,10,NA,124192,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+160546,1,31,828,"Bernardpora stutchburyi",1,"Global estimate",NA,NA,10,NA,204464,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+109750,1,31,349,"Blastomussa merleti",1,"Global estimate",NA,NA,10,NA,124197,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+109752,1,31,1146,"Blastomussa omanensis",1,"Global estimate",NA,NA,65,NA,124199,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.8,"raw_value",NA,NA,NA,NA,NA
+109754,1,31,350,"Blastomussa wellsi",1,"Global estimate",NA,NA,10,NA,124201,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+109756,1,31,352,"Boninastrea boninensis",1,"Global estimate",NA,NA,10,NA,124203,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.1,"raw_value",NA,NA,NA,NA,NA
+109758,1,31,355,"Cantharellus doederleini",1,"Global estimate",NA,NA,10,NA,124205,181,"Corallite width minimum",28,"mm",15,"Image analysis",51.2,"raw_value",NA,NA,NA,NA,NA
+109762,1,31,426,"Catalaphyllia jardinei",1,"Global estimate",NA,NA,10,NA,124209,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.3,"raw_value",NA,NA,NA,NA,NA
+109764,1,31,427,"Caulastraea connata",1,"Global estimate",NA,NA,10,NA,124211,181,"Corallite width minimum",28,"mm",15,"Image analysis",17.5,"raw_value",NA,NA,NA,NA,NA
+109766,1,31,428,"Caulastraea curvata",1,"Global estimate",NA,NA,10,NA,124213,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.8,"raw_value",NA,NA,NA,NA,NA
+109768,1,31,429,"Caulastraea echinulata",1,"Global estimate",NA,NA,10,NA,124215,181,"Corallite width minimum",28,"mm",15,"Image analysis",9.4,"raw_value",NA,NA,NA,NA,NA
+109770,1,31,430,"Caulastraea furcata",1,"Global estimate",NA,NA,10,NA,124217,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.2,"raw_value",NA,NA,NA,NA,NA
+109772,1,31,431,"Caulastraea tumida",1,"Global estimate",NA,NA,10,NA,124219,181,"Corallite width minimum",28,"mm",15,"Image analysis",15,"raw_value",NA,NA,NA,NA,NA
+109774,1,31,435,"Cladocora arbuscula",1,"Global estimate",NA,NA,10,NA,124221,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+109776,1,31,436,"Cladocora caespitosa",1,"Global estimate",NA,NA,10,NA,124223,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.6,"raw_value",NA,NA,NA,NA,NA
+109778,1,31,794,"Coelastrea aspera",1,"Global estimate",NA,NA,10,NA,124225,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.5,"raw_value",NA,NA,NA,NA,NA
+109780,1,31,801,"Coelastrea palauensis",1,"Global estimate",NA,NA,10,NA,124227,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+109782,1,31,445,"Coeloseris mayeri",1,"Global estimate",NA,NA,10,NA,124229,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.1,"raw_value",NA,NA,NA,NA,NA
+109784,1,31,458,"Colpophyllia natans",1,"Global estimate",NA,NA,297,NA,124231,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.7,"raw_value",NA,NA,NA,NA,NA
+109786,1,31,467,"Coscinaraea columna",1,"Global estimate",NA,NA,10,NA,124233,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+109788,1,31,468,"Coscinaraea crassa",1,"Global estimate",NA,NA,297,NA,124235,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.1,"raw_value",NA,NA,NA,NA,NA
+109790,1,31,469,"Coscinaraea exesa",1,"Global estimate",NA,NA,297,NA,124237,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.6,"raw_value",NA,NA,NA,NA,NA
+109792,1,31,470,"Coscinaraea hahazimaensis",1,"Global estimate",NA,NA,10,NA,124239,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+109794,1,31,471,"Coscinaraea marshae",1,"Global estimate",NA,NA,297,NA,124241,181,"Corallite width minimum",28,"mm",15,"Image analysis",3,"raw_value",NA,NA,NA,NA,NA
+109796,1,31,472,"Coscinaraea mcneilli",1,"Global estimate",NA,NA,297,NA,124243,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+109802,1,31,733,"Cycloseris costulata",1,"Global estimate",NA,NA,10,NA,124249,181,"Corallite width minimum",28,"mm",15,"Image analysis",70,"raw_value",NA,NA,NA,NA,NA
+109804,1,31,734,"Cycloseris curvata",1,"Global estimate",NA,NA,10,NA,124251,181,"Corallite width minimum",28,"mm",15,"Image analysis",75,"raw_value",NA,NA,NA,NA,NA
+109806,1,31,735,"Cycloseris cyclolites",1,"Global estimate",NA,NA,10,NA,124253,181,"Corallite width minimum",28,"mm",15,"Image analysis",33.3,"raw_value",NA,NA,NA,NA,NA
+109809,1,31,1339,"Cycloseris explanulata",1,"Global estimate",NA,NA,297,NA,124256,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.4,"raw_value",NA,NA,NA,NA,NA
+109812,1,31,743,"Cycloseris hexagonalis",1,"Global estimate",NA,NA,10,NA,124259,181,"Corallite width minimum",28,"mm",15,"Image analysis",28.1,"raw_value",NA,NA,NA,NA,NA
+109814,1,31,922,"Cycloseris mokai",1,"Global estimate",NA,NA,10,NA,124261,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+109816,1,31,754,"Cycloseris sinensis",1,"Global estimate",NA,NA,10,NA,124263,181,"Corallite width minimum",28,"mm",15,"Image analysis",53.3,"raw_value",NA,NA,NA,NA,NA
+109818,1,31,755,"Cycloseris somervillei",1,"Global estimate",NA,NA,10,NA,124265,181,"Corallite width minimum",28,"mm",15,"Image analysis",102.9,"raw_value",NA,NA,NA,NA,NA
+109820,1,31,513,"Cycloseris tenuis",1,"Global estimate",NA,NA,10,NA,124267,181,"Corallite width minimum",28,"mm",15,"Image analysis",42.9,"raw_value",NA,NA,NA,NA,NA
+109823,1,31,474,"Cycloseris wellsi",1,"Global estimate",NA,NA,297,NA,124270,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+109826,1,31,516,"Cyphastrea agassizi",1,"Global estimate",NA,NA,10,NA,124273,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+109828,1,31,517,"Cyphastrea chalcidicum",1,"Global estimate",NA,NA,10,NA,124275,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+109830,1,31,518,"Cyphastrea decadia",1,"Global estimate",NA,NA,10,NA,124277,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.2,"raw_value",NA,NA,NA,NA,NA
+109832,1,31,519,"Cyphastrea hexasepta",1,"Global estimate",NA,NA,65,NA,124279,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+109834,1,31,520,"Cyphastrea japonica",1,"Global estimate",NA,NA,10,NA,124281,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+109836,1,31,521,"Cyphastrea microphthalma",1,"Global estimate",NA,NA,10,NA,124283,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+109838,1,31,522,"Cyphastrea ocellina",1,"Global estimate",NA,NA,10,NA,124285,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+109840,1,31,523,"Cyphastrea serailia",1,"Global estimate",NA,NA,10,NA,124287,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+109844,1,31,555,"Dendrogyra cylindrus",1,"Global estimate",NA,NA,10,NA,124291,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+109846,1,31,585,"Dichocoenia stokesi",1,"Global estimate",NA,NA,10,NA,124293,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+109848,1,31,587,"Diploastrea heliopora",1,"Global estimate",NA,NA,10,NA,124295,181,"Corallite width minimum",28,"mm",15,"Image analysis",7,"raw_value",NA,NA,NA,NA,NA
+109850,1,31,589,"Diploria labyrinthiformis",1,"Global estimate",NA,NA,10,NA,124297,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.3,"raw_value",NA,NA,NA,NA,NA
+109852,1,31,646,"Dipsastraea albida",1,"Global estimate",NA,NA,65,NA,124299,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.3,"raw_value",NA,NA,NA,NA,NA
+109854,1,31,342,"Dipsastraea amicorum",1,"Global estimate",NA,NA,10,NA,124301,181,"Corallite width minimum",28,"mm",15,"Image analysis",6,"raw_value",NA,NA,NA,NA,NA
+109856,1,31,647,"Dipsastraea danai",1,"Global estimate",NA,NA,10,NA,124303,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.8,"raw_value",NA,NA,NA,NA,NA
+109413,1,31,5,"Dipsastraea faviaformis",1,"Global estimate",NA,NA,65,NA,123860,181,"Corallite width minimum",28,"mm",15,"Image analysis",10.3,"raw_value",NA,NA,NA,NA,NA
+109858,1,31,648,"Dipsastraea favus",1,"Global estimate",NA,NA,10,NA,124305,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.5,"raw_value",NA,NA,NA,NA,NA
+109860,1,31,651,"Dipsastraea helianthoides",1,"Global estimate",NA,NA,10,NA,124307,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.2,"raw_value",NA,NA,NA,NA,NA
+109862,1,31,652,"Dipsastraea lacuna",1,"Global estimate",NA,NA,65,NA,124309,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.9,"raw_value",NA,NA,NA,NA,NA
+109864,1,31,343,"Dipsastraea laddi",1,"Global estimate",NA,NA,10,NA,124311,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.5,"raw_value",NA,NA,NA,NA,NA
+109866,1,31,653,"Dipsastraea laxa",1,"Global estimate",NA,NA,10,NA,124313,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+109868,1,31,655,"Dipsastraea lizardensis",1,"Global estimate",NA,NA,10,NA,124315,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+109870,1,31,656,"Dipsastraea maritima",1,"Global estimate",NA,NA,10,NA,124317,181,"Corallite width minimum",28,"mm",15,"Image analysis",13.8,"raw_value",NA,NA,NA,NA,NA
+109872,1,31,657,"Dipsastraea marshae",1,"Global estimate",NA,NA,65,NA,124319,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.5,"raw_value",NA,NA,NA,NA,NA
+109874,1,31,658,"Dipsastraea matthaii",1,"Global estimate",NA,NA,10,NA,124321,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.8,"raw_value",NA,NA,NA,NA,NA
+109876,1,31,659,"Dipsastraea maxima",1,"Global estimate",NA,NA,10,NA,124323,181,"Corallite width minimum",28,"mm",15,"Image analysis",23,"raw_value",NA,NA,NA,NA,NA
+109878,1,31,660,"Dipsastraea pallida",1,"Global estimate",NA,NA,10,NA,124325,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.8,"raw_value",NA,NA,NA,NA,NA
+109880,1,31,661,"Dipsastraea rosaria",1,"Global estimate",NA,NA,65,NA,124327,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.1,"raw_value",NA,NA,NA,NA,NA
+109882,1,31,662,"Dipsastraea rotumana",1,"Global estimate",NA,NA,10,NA,124329,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.8,"raw_value",NA,NA,NA,NA,NA
+109884,1,31,664,"Dipsastraea speciosa",1,"Global estimate",NA,NA,10,NA,124331,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+109886,1,31,666,"Dipsastraea truncata",1,"Global estimate",NA,NA,65,NA,124333,181,"Corallite width minimum",28,"mm",15,"Image analysis",9,"raw_value",NA,NA,NA,NA,NA
+109888,1,31,667,"Dipsastraea veroni",1,"Global estimate",NA,NA,10,NA,124335,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+109890,1,31,668,"Dipsastraea vietnamensis",1,"Global estimate",NA,NA,65,NA,124337,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.8,"raw_value",NA,NA,NA,NA,NA
+109892,1,31,591,"Duncanopsammia axifuga",1,"Global estimate",NA,NA,10,NA,124339,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.7,"raw_value",NA,NA,NA,NA,NA
+109894,1,31,1546,"Duncanopsammia peltata",1,"Global estimate",NA,NA,10,NA,124341,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+109897,1,31,594,"Echinophyllia aspera",1,"Global estimate",NA,NA,10,NA,124344,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.8,"raw_value",NA,NA,NA,NA,NA
+109899,1,31,595,"Echinophyllia costata",1,"Global estimate",NA,NA,65,NA,124346,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+109901,1,31,596,"Echinophyllia echinata",1,"Global estimate",NA,NA,10,NA,124348,181,"Corallite width minimum",28,"mm",15,"Image analysis",12,"raw_value",NA,NA,NA,NA,NA
+109903,1,31,597,"Echinophyllia echinoporoides",1,"Global estimate",NA,NA,10,NA,124350,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+109905,1,31,599,"Echinophyllia orpheensis",1,"Global estimate",NA,NA,10,NA,124352,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+109907,1,31,600,"Echinophyllia patula",1,"Global estimate",NA,NA,10,NA,124354,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.9,"raw_value",NA,NA,NA,NA,NA
+109909,1,31,601,"Echinophyllia pectinata",1,"Global estimate",NA,NA,65,NA,124356,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.2,"raw_value",NA,NA,NA,NA,NA
+109911,1,31,603,"Echinopora ashmorensis",1,"Global estimate",NA,NA,10,NA,124358,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.4,"raw_value",NA,NA,NA,NA,NA
+109913,1,31,604,"Echinopora forskaliana",1,"Global estimate",NA,NA,10,NA,124360,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.3,"raw_value",NA,NA,NA,NA,NA
+109915,1,31,605,"Echinopora fruticulosa",1,"Global estimate",NA,NA,10,NA,124362,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.7,"raw_value",NA,NA,NA,NA,NA
+109917,1,31,606,"Echinopora gemmacea",1,"Global estimate",NA,NA,10,NA,124364,181,"Corallite width minimum",28,"mm",15,"Image analysis",3,"raw_value",NA,NA,NA,NA,NA
+109919,1,31,608,"Echinopora hirsutissima",1,"Global estimate",NA,NA,10,NA,124366,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.7,"raw_value",NA,NA,NA,NA,NA
+109921,1,31,609,"Echinopora horrida",1,"Global estimate",NA,NA,10,NA,124368,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+109923,1,31,610,"Echinopora irregularis",1,"Global estimate",NA,NA,65,NA,124370,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+109925,1,31,611,"Echinopora lamellosa",1,"Global estimate",NA,NA,10,NA,124372,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+109927,1,31,612,"Echinopora mammiformis",1,"Global estimate",NA,NA,10,NA,124374,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.1,"raw_value",NA,NA,NA,NA,NA
+109929,1,31,613,"Echinopora pacificus",1,"Global estimate",NA,NA,10,NA,124376,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+109931,1,31,614,"Echinopora robusta",1,"Global estimate",NA,NA,65,NA,124378,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+109933,1,31,602,"Echinopora taylorae",1,"Global estimate",NA,NA,65,NA,124380,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.2,"raw_value",NA,NA,NA,NA,NA
+109935,1,31,616,"Echinopora tiranensis",1,"Global estimate",NA,NA,65,NA,124382,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+109937,1,31,634,"Erythrastrea flabellata",1,"Global estimate",NA,NA,10,NA,124384,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+109939,1,31,635,"Euphyllia ancora",1,"Global estimate",NA,NA,10,NA,124386,181,"Corallite width minimum",28,"mm",15,"Image analysis",16,"raw_value",NA,NA,NA,NA,NA
+109941,1,31,636,"Euphyllia cristata",1,"Global estimate",NA,NA,10,NA,124388,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",20,"raw_value",NA,NA,NA,NA,NA
+109944,1,31,639,"Euphyllia glabrescens",1,"Global estimate",NA,NA,10,NA,124391,181,"Corallite width minimum",28,"mm",15,"Image analysis",8,"raw_value",NA,NA,NA,NA,NA
+109946,1,31,640,"Euphyllia paraancora",1,"Global estimate",NA,NA,10,NA,124393,181,"Corallite width minimum",28,"mm",15,"Image analysis",29,"raw_value",NA,NA,NA,NA,NA
+109948,1,31,641,"Euphyllia paradivisa",1,"Global estimate",NA,NA,10,NA,124395,181,"Corallite width minimum",28,"mm",15,"Image analysis",36,"raw_value",NA,NA,NA,NA,NA
+109952,1,31,644,"Eusmilia fastigiata",1,"Global estimate",NA,NA,10,NA,124399,181,"Corallite width minimum",28,"mm",15,"Image analysis",18.1,"raw_value",NA,NA,NA,NA,NA
+109954,1,31,649,"Favia fragum",1,"Global estimate",NA,NA,10,NA,124401,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+109956,1,31,670,"Favites abdita",1,"Global estimate",NA,NA,10,NA,124403,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+109958,1,31,671,"Favites acuticollis",1,"Global estimate",NA,NA,10,NA,124405,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.7,"raw_value",NA,NA,NA,NA,NA
+109960,1,31,673,"Favites chinensis",1,"Global estimate",NA,NA,10,NA,124407,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+109962,1,31,976,"Favites colemani",1,"Global estimate",NA,NA,65,NA,124409,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.1,"raw_value",NA,NA,NA,NA,NA
+109964,1,31,674,"Favites complanata",1,"Global estimate",NA,NA,10,NA,124411,181,"Corallite width minimum",28,"mm",15,"Image analysis",8,"raw_value",NA,NA,NA,NA,NA
+109966,1,31,675,"Favites flexuosa",1,"Global estimate",NA,NA,10,NA,124413,181,"Corallite width minimum",28,"mm",15,"Image analysis",13.2,"raw_value",NA,NA,NA,NA,NA
+109968,1,31,676,"Favites halicora",1,"Global estimate",NA,NA,10,NA,124415,181,"Corallite width minimum",28,"mm",15,"Image analysis",10.8,"raw_value",NA,NA,NA,NA,NA
+109970,1,31,980,"Favites magnistellata",1,"Global estimate",NA,NA,10,NA,124417,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.1,"raw_value",NA,NA,NA,NA,NA
+109972,1,31,672,"Favites melicerum",1,"Global estimate",NA,NA,65,NA,124419,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.4,"raw_value",NA,NA,NA,NA,NA
+109974,1,31,677,"Favites micropentagonus",1,"Global estimate",NA,NA,65,NA,124421,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.3,"raw_value",NA,NA,NA,NA,NA
+109976,1,31,678,"Favites paraflexuosus",1,"Global estimate",NA,NA,65,NA,124423,181,"Corallite width minimum",28,"mm",15,"Image analysis",10.5,"raw_value",NA,NA,NA,NA,NA
+109978,1,31,679,"Favites pentagona",1,"Global estimate",NA,NA,10,NA,124425,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+109980,1,31,663,"Favites rotundata",1,"Global estimate",NA,NA,10,NA,124427,181,"Corallite width minimum",28,"mm",15,"Image analysis",16.2,"raw_value",NA,NA,NA,NA,NA
+109982,1,31,682,"Favites spinosa",1,"Global estimate",NA,NA,10,NA,124429,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.2,"raw_value",NA,NA,NA,NA,NA
+109984,1,31,683,"Favites stylifera",1,"Global estimate",NA,NA,10,NA,124431,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+109986,1,31,984,"Favites valenciennesi",1,"Global estimate",NA,NA,10,NA,124433,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+109988,1,31,684,"Favites vasta",1,"Global estimate",NA,NA,10,NA,124435,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.5,"raw_value",NA,NA,NA,NA,NA
+109991,1,31,781,"Galaxea acrhelia",1,"Global estimate",NA,NA,65,NA,124438,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+109993,1,31,782,"Galaxea astreata",1,"Global estimate",NA,NA,10,NA,124440,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.4,"raw_value",NA,NA,NA,NA,NA
+109995,1,31,783,"Galaxea cryptoramosa",1,"Global estimate",NA,NA,65,NA,124442,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+109997,1,31,784,"Galaxea fascicularis",1,"Global estimate",NA,NA,10,NA,124444,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.8,"raw_value",NA,NA,NA,NA,NA
+109999,1,31,785,"Galaxea horrescens",1,"Global estimate",NA,NA,10,NA,124446,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110001,1,31,786,"Galaxea longisepta",1,"Global estimate",NA,NA,65,NA,124448,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+110003,1,31,787,"Galaxea paucisepta",1,"Global estimate",NA,NA,10,NA,124450,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110005,1,31,793,"Gardineroseris planulata",1,"Global estimate",NA,NA,10,NA,124452,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+110007,1,31,796,"Goniastrea columella",1,"Global estimate",NA,NA,10,NA,124454,181,"Corallite width minimum",28,"mm",15,"Image analysis",11,"raw_value",NA,NA,NA,NA,NA
+110009,1,31,798,"Goniastrea edwardsi",1,"Global estimate",NA,NA,10,NA,124456,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110011,1,31,799,"Goniastrea favulus",1,"Global estimate",NA,NA,10,NA,124458,181,"Corallite width minimum",28,"mm",15,"Image analysis",4,"raw_value",NA,NA,NA,NA,NA
+110013,1,31,800,"Goniastrea minuta",1,"Global estimate",NA,NA,65,NA,124460,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.3,"raw_value",NA,NA,NA,NA,NA
+110015,1,31,802,"Goniastrea pectinata",1,"Global estimate",NA,NA,10,NA,124462,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+110017,1,31,804,"Goniastrea ramosa",1,"Global estimate",NA,NA,65,NA,124464,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110019,1,31,805,"Goniastrea retiformis",1,"Global estimate",NA,NA,10,NA,124466,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110021,1,31,665,"Goniastrea stelligera",1,"Global estimate",NA,NA,10,NA,124468,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.2,"raw_value",NA,NA,NA,NA,NA
+110023,1,31,806,"Goniastrea thecata",1,"Global estimate",NA,NA,65,NA,124470,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.7,"raw_value",NA,NA,NA,NA,NA
+110025,1,31,808,"Goniopora albiconus",1,"Global estimate",NA,NA,65,NA,124472,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110027,1,31,809,"Goniopora burgosi",1,"Global estimate",NA,NA,10,NA,124474,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+110029,1,31,810,"Goniopora cellulosa",1,"Global estimate",NA,NA,10,NA,124476,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110031,1,31,811,"Goniopora ciliatus",1,"Global estimate",NA,NA,65,NA,124478,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.9,"raw_value",NA,NA,NA,NA,NA
+110033,1,31,812,"Goniopora columna",1,"Global estimate",NA,NA,10,NA,124480,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.7,"raw_value",NA,NA,NA,NA,NA
+110035,1,31,813,"Goniopora djiboutiensis",1,"Global estimate",NA,NA,10,NA,124482,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.2,"raw_value",NA,NA,NA,NA,NA
+110037,1,31,814,"Goniopora eclipsensis",1,"Global estimate",NA,NA,10,NA,124484,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110039,1,31,815,"Goniopora fruticosa",1,"Global estimate",NA,NA,10,NA,124486,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110041,1,31,816,"Goniopora lobata",1,"Global estimate",NA,NA,10,NA,124488,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110043,1,31,817,"Goniopora minor",1,"Global estimate",NA,NA,10,NA,124490,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110045,1,31,818,"Goniopora norfolkensis",1,"Global estimate",NA,NA,10,NA,124492,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110047,1,31,1329,"Goniopora paliformis",1,"Global estimate",NA,NA,65,NA,124494,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110049,1,31,819,"Goniopora palmensis",1,"Global estimate",NA,NA,10,NA,124496,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110051,1,31,820,"Goniopora pandoraensis",1,"Global estimate",NA,NA,10,NA,124498,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110053,1,31,821,"Goniopora pearsoni",1,"Global estimate",NA,NA,65,NA,124500,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.2,"raw_value",NA,NA,NA,NA,NA
+110055,1,31,822,"Goniopora pendulus",1,"Global estimate",NA,NA,10,NA,124502,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.1,"raw_value",NA,NA,NA,NA,NA
+110057,1,31,823,"Goniopora planulata",1,"Global estimate",NA,NA,10,NA,124504,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110059,1,31,824,"Goniopora polyformis",1,"Global estimate",NA,NA,10,NA,124506,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.6,"raw_value",NA,NA,NA,NA,NA
+110061,1,31,825,"Goniopora savignyi",1,"Global estimate",NA,NA,10,NA,124508,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110063,1,31,826,"Goniopora somaliensis",1,"Global estimate",NA,NA,10,NA,124510,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.2,"raw_value",NA,NA,NA,NA,NA
+110065,1,31,827,"Goniopora stokesi",1,"Global estimate",NA,NA,10,NA,124512,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.7,"raw_value",NA,NA,NA,NA,NA
+110067,1,31,829,"Goniopora sultani",1,"Global estimate",NA,NA,65,NA,124514,181,"Corallite width minimum",28,"mm",15,"Image analysis",7,"raw_value",NA,NA,NA,NA,NA
+110069,1,31,354,"Goniopora tantillus",1,"Global estimate",NA,NA,10,NA,124516,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110071,1,31,830,"Goniopora tenella",1,"Global estimate",NA,NA,10,NA,124518,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110073,1,31,833,"Gyrosmilia interrupta",1,"Global estimate",NA,NA,10,NA,124520,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.3,"raw_value",NA,NA,NA,NA,NA
+110075,1,31,834,"Halomitra clavator",1,"Global estimate",NA,NA,297,NA,124522,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+110077,1,31,836,"Halomitra pileus",1,"Global estimate",NA,NA,297,NA,124524,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110085,1,31,2,"Homophyllia bowerbanki",1,"Global estimate",NA,NA,10,NA,124532,181,"Corallite width minimum",28,"mm",15,"Image analysis",20,"raw_value",NA,NA,NA,NA,NA
+110087,1,31,7,"Homophyllia hillae",1,"Global estimate",NA,NA,297,NA,124534,181,"Corallite width minimum",28,"mm",15,"Image analysis",32.7,"raw_value",NA,NA,NA,NA,NA
+110089,1,31,851,"Horastrea indica",1,"Global estimate",NA,NA,297,NA,124536,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.3,"raw_value",NA,NA,NA,NA,NA
+110091,1,31,852,"Hydnophora bonsai",1,"Global estimate",NA,NA,297,NA,124538,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110093,1,31,853,"Hydnophora exesa",1,"Global estimate",NA,NA,10,NA,124540,181,"Corallite width minimum",28,"mm",15,"Image analysis",3,"raw_value",NA,NA,NA,NA,NA
+110095,1,31,854,"Hydnophora grandis",1,"Global estimate",NA,NA,10,NA,124542,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.3,"raw_value",NA,NA,NA,NA,NA
+110097,1,31,855,"Hydnophora microconos",1,"Global estimate",NA,NA,10,NA,124544,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.6,"raw_value",NA,NA,NA,NA,NA
+110099,1,31,856,"Hydnophora pilosa",1,"Global estimate",NA,NA,10,NA,124546,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+110101,1,31,857,"Hydnophora rigida",1,"Global estimate",NA,NA,297,NA,124548,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+110103,1,31,1450,"Hydnophyllia wilsoni",1,"Global estimate",NA,NA,10,NA,124550,181,"Corallite width minimum",28,"mm",15,"Image analysis",17.5,"raw_value",NA,NA,NA,NA,NA
+110106,1,31,861,"Isophyllia rigida",1,"Global estimate",NA,NA,10,NA,124553,181,"Corallite width minimum",28,"mm",15,"Image analysis",9.2,"raw_value",NA,NA,NA,NA,NA
+110108,1,31,862,"Isophyllia sinuosa",1,"Global estimate",NA,NA,10,NA,124555,181,"Corallite width minimum",28,"mm",15,"Image analysis",9.2,"raw_value",NA,NA,NA,NA,NA
+110110,1,31,31,"Isopora brueggemanni",1,"Global estimate",NA,NA,677,NA,124557,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+110112,1,31,43,"Isopora crateriformis",1,"Global estimate",NA,NA,677,NA,124559,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+110114,1,31,44,"Isopora cuneata",1,"Global estimate",NA,NA,677,NA,124561,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.5,"raw_value",NA,NA,NA,NA,NA
+110116,1,31,123,"Isopora palifera",1,"Global estimate",NA,NA,677,NA,124563,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.7,"raw_value",NA,NA,NA,NA,NA
+110118,1,31,183,"Isopora togianensis",1,"Global estimate",NA,NA,677,NA,124565,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+110120,1,31,878,"Leptastrea aequalis",1,"Global estimate",NA,NA,65,NA,124567,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110122,1,31,879,"Leptastrea bewickensis",1,"Global estimate",NA,NA,10,NA,124569,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110124,1,31,880,"Leptastrea bottae",1,"Global estimate",NA,NA,10,NA,124571,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110126,1,31,881,"Leptastrea inaequalis",1,"Global estimate",NA,NA,10,NA,124573,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110128,1,31,882,"Leptastrea pruinosa",1,"Global estimate",NA,NA,10,NA,124575,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110130,1,31,883,"Leptastrea purpurea",1,"Global estimate",NA,NA,10,NA,124577,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110132,1,31,884,"Leptastrea transversa",1,"Global estimate",NA,NA,10,NA,124579,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.4,"raw_value",NA,NA,NA,NA,NA
+110134,1,31,899,"Leptoria irregularis",1,"Global estimate",NA,NA,10,NA,124581,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110136,1,31,900,"Leptoria phrygia",1,"Global estimate",NA,NA,10,NA,124583,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.6,"raw_value",NA,NA,NA,NA,NA
+110138,1,31,901,"Leptoseris amitoriensis",1,"Global estimate",NA,NA,10,NA,124585,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110140,1,31,902,"Leptoseris cailleti",1,"Global estimate",NA,NA,10,NA,124587,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110142,1,31,903,"Leptoseris cucullata",1,"Global estimate",NA,NA,10,NA,124589,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110144,1,31,904,"Leptoseris explanata",1,"Global estimate",NA,NA,10,NA,124591,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110146,1,31,905,"Leptoseris foliosa",1,"Global estimate",NA,NA,10,NA,124593,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110148,1,31,906,"Leptoseris gardineri",1,"Global estimate",NA,NA,10,NA,124595,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+110150,1,31,907,"Leptoseris hawaiiensis",1,"Global estimate",NA,NA,10,NA,124597,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110152,1,31,908,"Leptoseris incrustans",1,"Global estimate",NA,NA,10,NA,124599,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110154,1,31,909,"Leptoseris mycetoseroides",1,"Global estimate",NA,NA,10,NA,124601,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110156,1,31,910,"Leptoseris papyracea",1,"Global estimate",NA,NA,10,NA,124603,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110158,1,31,911,"Leptoseris scabra",1,"Global estimate",NA,NA,10,NA,124605,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+110160,1,31,912,"Leptoseris solida",1,"Global estimate",NA,NA,10,NA,124607,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110162,1,31,913,"Leptoseris striata",1,"Global estimate",NA,NA,65,NA,124609,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.2,"raw_value",NA,NA,NA,NA,NA
+110164,1,31,915,"Leptoseris tubulifera",1,"Global estimate",NA,NA,10,NA,124611,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.2,"raw_value",NA,NA,NA,NA,NA
+110166,1,31,916,"Leptoseris yabei",1,"Global estimate",NA,NA,10,NA,124613,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+110169,1,31,749,"Lithophyllon repanda",1,"Global estimate",NA,NA,10,NA,124616,181,"Corallite width minimum",28,"mm",15,"Image analysis",150,"raw_value",NA,NA,NA,NA,NA
+110173,1,31,921,"Lithophyllon undulatum",1,"Global estimate",NA,NA,10,NA,124620,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+110176,1,31,925,"Lobophyllia corymbosa",1,"Global estimate",NA,NA,10,NA,124623,181,"Corallite width minimum",28,"mm",15,"Image analysis",18.5,"raw_value",NA,NA,NA,NA,NA
+110178,1,31,927,"Lobophyllia dentata",1,"Global estimate",NA,NA,65,NA,124625,181,"Corallite width minimum",28,"mm",15,"Image analysis",14,"raw_value",NA,NA,NA,NA,NA
+110181,1,31,929,"Lobophyllia flabelliformis",1,"Global estimate",NA,NA,65,NA,124628,181,"Corallite width minimum",28,"mm",15,"Image analysis",28.9,"raw_value",NA,NA,NA,NA,NA
+110183,1,31,930,"Lobophyllia hataii",1,"Global estimate",NA,NA,10,NA,124630,181,"Corallite width minimum",28,"mm",15,"Image analysis",25,"raw_value",NA,NA,NA,NA,NA
+110185,1,31,931,"Lobophyllia hemprichii",1,"Global estimate",NA,NA,10,NA,124632,181,"Corallite width minimum",28,"mm",15,"Image analysis",16.5,"raw_value",NA,NA,NA,NA,NA
+110187,1,31,932,"Lobophyllia pachysepta",1,"Global estimate",NA,NA,297,NA,124634,181,"Corallite width minimum",28,"mm",15,"Image analysis",14.1,"raw_value",NA,NA,NA,NA,NA
+110190,1,31,934,"Lobophyllia serrata",1,"Global estimate",NA,NA,65,NA,124637,181,"Corallite width minimum",28,"mm",15,"Image analysis",16.9,"raw_value",NA,NA,NA,NA,NA
+110192,1,31,938,"Madracis asanoi",1,"Global estimate",NA,NA,10,NA,124639,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+110194,1,31,939,"Madracis asperula",1,"Global estimate",NA,NA,10,NA,124641,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110196,1,31,943,"Madracis decactis",1,"Global estimate",NA,NA,10,NA,124643,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110198,1,31,944,"Madracis formosa",1,"Global estimate",NA,NA,10,NA,124645,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110200,1,31,948,"Madracis kirbyi",1,"Global estimate",NA,NA,10,NA,124647,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110202,1,31,949,"Madracis mirabilis",1,"Global estimate",NA,NA,10,NA,124649,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110204,1,31,950,"Madracis myriaster",1,"Global estimate",NA,NA,10,NA,124651,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110206,1,31,951,"Madracis pharensis",1,"Global estimate",NA,NA,10,NA,124653,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110208,1,31,953,"Madracis senaria",1,"Global estimate",NA,NA,10,NA,124655,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110210,1,31,961,"Manicina areolata",1,"Global estimate",NA,NA,10,NA,124657,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.8,"raw_value",NA,NA,NA,NA,NA
+110213,1,31,964,"Meandrina meandrites",1,"Global estimate",NA,NA,10,NA,124660,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.8,"raw_value",NA,NA,NA,NA,NA
+110215,1,31,965,"Merulina ampliata",1,"Global estimate",NA,NA,10,NA,124662,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+110217,1,31,966,"Merulina scabricula",1,"Global estimate",NA,NA,10,NA,124664,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110219,1,31,967,"Merulina scheeri",1,"Global estimate",NA,NA,10,NA,124666,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+110221,1,31,1120,"Merulina triangularis",1,"Global estimate",NA,NA,10,NA,124668,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+110223,1,31,968,"Micromussa amakusensis",1,"Global estimate",NA,NA,10,NA,124670,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.7,"raw_value",NA,NA,NA,NA,NA
+110225,1,31,969,"Micromussa diminuta",1,"Global estimate",NA,NA,65,NA,124672,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.1,"raw_value",NA,NA,NA,NA,NA
+110227,1,31,9,"Micromussa lordhowensis",1,"Global estimate",NA,NA,10,NA,124674,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+110229,1,31,970,"Micromussa minuta",1,"Global estimate",NA,NA,10,NA,124676,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110233,1,31,981,"Micromussa multipunctata",1,"Global estimate",NA,NA,10,NA,124680,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.4,"raw_value",NA,NA,NA,NA,NA
+110231,1,31,975,"Montastraea cavernosa",1,"Global estimate",NA,NA,10,NA,124678,181,"Corallite width minimum",28,"mm",15,"Image analysis",7,"raw_value",NA,NA,NA,NA,NA
+110235,1,31,985,"Montigyra kenti",1,"Global estimate",NA,NA,10,NA,124682,181,"Corallite width minimum",28,"mm",15,"Image analysis",16,"raw_value",NA,NA,NA,NA,NA
+110237,1,31,986,"Montipora aequituberculata",1,"Global estimate",NA,NA,10,NA,124684,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110239,1,31,987,"Montipora altasepta",1,"Global estimate",NA,NA,10,NA,124686,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110241,1,31,988,"Montipora angulata",1,"Global estimate",NA,NA,10,NA,124688,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110243,1,31,989,"Montipora aspergillus",1,"Global estimate",NA,NA,65,NA,124690,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110245,1,31,990,"Montipora australiensis",1,"Global estimate",NA,NA,10,NA,124692,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110247,1,31,991,"Montipora cactus",1,"Global estimate",NA,NA,10,NA,124694,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110249,1,31,992,"Montipora calcarea",1,"Global estimate",NA,NA,10,NA,124696,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110251,1,31,993,"Montipora caliculata",1,"Global estimate",NA,NA,10,NA,124698,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110253,1,31,994,"Montipora capitata",1,"Global estimate",NA,NA,10,NA,124700,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110255,1,31,995,"Montipora capricornis",1,"Global estimate",NA,NA,10,NA,124702,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110257,1,31,996,"Montipora cebuensis",1,"Global estimate",NA,NA,10,NA,124704,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.4,"raw_value",NA,NA,NA,NA,NA
+110259,1,31,997,"Montipora circumvallata",1,"Global estimate",NA,NA,10,NA,124706,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110261,1,31,998,"Montipora cocosensis",1,"Global estimate",NA,NA,10,NA,124708,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110263,1,31,999,"Montipora confusa",1,"Global estimate",NA,NA,10,NA,124710,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110265,1,31,1000,"Montipora corbettensis",1,"Global estimate",NA,NA,10,NA,124712,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110267,1,31,1001,"Montipora crassituberculata",1,"Global estimate",NA,NA,10,NA,124714,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110269,1,31,1002,"Montipora cryptus",1,"Global estimate",NA,NA,65,NA,124716,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110271,1,31,1003,"Montipora danae",1,"Global estimate",NA,NA,10,NA,124718,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110273,1,31,1004,"Montipora delicatula",1,"Global estimate",NA,NA,65,NA,124720,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110275,1,31,1005,"Montipora digitata",1,"Global estimate",NA,NA,10,NA,124722,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110277,1,31,1006,"Montipora dilatata",1,"Global estimate",NA,NA,10,NA,124724,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110279,1,31,1007,"Montipora echinata",1,"Global estimate",NA,NA,65,NA,124726,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110281,1,31,1009,"Montipora efflorescens",1,"Global estimate",NA,NA,10,NA,124728,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110283,1,31,1010,"Montipora effusa",1,"Global estimate",NA,NA,10,NA,124730,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110285,1,31,1011,"Montipora flabellata",1,"Global estimate",NA,NA,10,NA,124732,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.2,"raw_value",NA,NA,NA,NA,NA
+110287,1,31,1012,"Montipora florida",1,"Global estimate",NA,NA,10,NA,124734,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.4,"raw_value",NA,NA,NA,NA,NA
+110289,1,31,1013,"Montipora floweri",1,"Global estimate",NA,NA,10,NA,124736,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110291,1,31,1014,"Montipora foliosa",1,"Global estimate",NA,NA,10,NA,124738,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110293,1,31,1015,"Montipora foveolata",1,"Global estimate",NA,NA,10,NA,124740,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+110295,1,31,1016,"Montipora friabilis",1,"Global estimate",NA,NA,10,NA,124742,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110297,1,31,1017,"Montipora gaimardi",1,"Global estimate",NA,NA,10,NA,124744,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.4,"raw_value",NA,NA,NA,NA,NA
+110299,1,31,1019,"Montipora grisea",1,"Global estimate",NA,NA,10,NA,124746,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110301,1,31,1020,"Montipora hemispherica",1,"Global estimate",NA,NA,65,NA,124748,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110303,1,31,1021,"Montipora hirsuta",1,"Global estimate",NA,NA,10,NA,124750,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.4,"raw_value",NA,NA,NA,NA,NA
+110305,1,31,1022,"Montipora hispida",1,"Global estimate",NA,NA,10,NA,124752,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110307,1,31,1023,"Montipora hodgsoni",1,"Global estimate",NA,NA,65,NA,124754,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110309,1,31,1024,"Montipora hoffmeisteri",1,"Global estimate",NA,NA,10,NA,124756,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110311,1,31,1025,"Montipora incrassata",1,"Global estimate",NA,NA,10,NA,124758,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110313,1,31,1026,"Montipora informis",1,"Global estimate",NA,NA,10,NA,124760,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110315,1,31,1027,"Montipora kellyi",1,"Global estimate",NA,NA,65,NA,124762,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110317,1,31,1028,"Montipora lobulata",1,"Global estimate",NA,NA,10,NA,124764,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110319,1,31,1029,"Montipora mactanensis",1,"Global estimate",NA,NA,10,NA,124766,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110321,1,31,1030,"Montipora malampaya",1,"Global estimate",NA,NA,10,NA,124768,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110323,1,31,1031,"Montipora meandrina",1,"Global estimate",NA,NA,10,NA,124770,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110325,1,31,1032,"Montipora millepora",1,"Global estimate",NA,NA,10,NA,124772,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110327,1,31,1033,"Montipora mollis",1,"Global estimate",NA,NA,10,NA,124774,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110329,1,31,1034,"Montipora monasteriata",1,"Global estimate",NA,NA,10,NA,124776,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110331,1,31,1035,"Montipora niugini",1,"Global estimate",NA,NA,65,NA,124778,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110333,1,31,1036,"Montipora nodosa",1,"Global estimate",NA,NA,10,NA,124780,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110335,1,31,1037,"Montipora orientalis",1,"Global estimate",NA,NA,10,NA,124782,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110338,1,31,1039,"Montipora palawanensis",1,"Global estimate",NA,NA,65,NA,124785,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110340,1,31,1040,"Montipora patula",1,"Global estimate",NA,NA,10,NA,124787,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110342,1,31,1041,"Montipora peltiformis",1,"Global estimate",NA,NA,10,NA,124789,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110344,1,31,1042,"Montipora porites",1,"Global estimate",NA,NA,65,NA,124791,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110346,1,31,1043,"Montipora samarensis",1,"Global estimate",NA,NA,10,NA,124793,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110348,1,31,1044,"Montipora saudii",1,"Global estimate",NA,NA,65,NA,124795,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110350,1,31,1045,"Montipora setosa",1,"Global estimate",NA,NA,10,NA,124797,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110352,1,31,1047,"Montipora spongiosa",1,"Global estimate",NA,NA,10,NA,124799,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110354,1,31,1048,"Montipora spongodes",1,"Global estimate",NA,NA,10,NA,124801,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110356,1,31,1049,"Montipora spumosa",1,"Global estimate",NA,NA,10,NA,124803,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110358,1,31,1050,"Montipora stellata",1,"Global estimate",NA,NA,10,NA,124805,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110360,1,31,1051,"Montipora stilosa",1,"Global estimate",NA,NA,10,NA,124807,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110362,1,31,1053,"Montipora taiwanensis",1,"Global estimate",NA,NA,65,NA,124809,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110364,1,31,1055,"Montipora tuberculosa",1,"Global estimate",NA,NA,10,NA,124811,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110366,1,31,1056,"Montipora turgescens",1,"Global estimate",NA,NA,10,NA,124813,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110368,1,31,1057,"Montipora turtlensis",1,"Global estimate",NA,NA,10,NA,124815,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110370,1,31,1058,"Montipora undata",1,"Global estimate",NA,NA,10,NA,124817,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110372,1,31,1060,"Montipora venosa",1,"Global estimate",NA,NA,10,NA,124819,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110374,1,31,1061,"Montipora verrilli",1,"Global estimate",NA,NA,10,NA,124821,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110376,1,31,1062,"Montipora verrucosa",1,"Global estimate",NA,NA,10,NA,124823,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110378,1,31,1063,"Montipora verruculosa",1,"Global estimate",NA,NA,65,NA,124825,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110380,1,31,1064,"Montipora vietnamensis",1,"Global estimate",NA,NA,65,NA,124827,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110382,1,31,1065,"Moseleya latistellata",1,"Global estimate",NA,NA,10,NA,124829,181,"Corallite width minimum",28,"mm",15,"Image analysis",56,"raw_value",NA,NA,NA,NA,NA
+110385,1,31,1067,"Mussismilia braziliensis",1,"Global estimate",NA,NA,10,NA,124832,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.6,"raw_value",NA,NA,NA,NA,NA
+110387,1,31,1068,"Mussismilia harttii",1,"Global estimate",NA,NA,297,NA,124834,181,"Corallite width minimum",28,"mm",15,"Image analysis",15.6,"raw_value",NA,NA,NA,NA,NA
+110389,1,31,1069,"Mussismilia hispida",1,"Global estimate",NA,NA,10,NA,124836,181,"Corallite width minimum",28,"mm",15,"Image analysis",15.4,"raw_value",NA,NA,NA,NA,NA
+110391,1,31,654,"Mussismilia leptophylla",1,"Global estimate",NA,NA,10,NA,124838,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+110393,1,31,1070,"Mycedium elephantotus",1,"Global estimate",NA,NA,10,NA,124840,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+110395,1,31,1071,"Mycedium mancaoi",1,"Global estimate",NA,NA,10,NA,124842,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+110397,1,31,1072,"Mycedium robokaki",1,"Global estimate",NA,NA,10,NA,124844,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+110399,1,31,1074,"Mycedium steeni",1,"Global estimate",NA,NA,65,NA,124846,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110401,1,31,1075,"Mycedium umbra",1,"Global estimate",NA,NA,65,NA,124848,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.3,"raw_value",NA,NA,NA,NA,NA
+110403,1,31,1076,"Mycetophyllia aliciae",1,"Global estimate",NA,NA,10,NA,124850,181,"Corallite width minimum",28,"mm",15,"Image analysis",15,"raw_value",NA,NA,NA,NA,NA
+110405,1,31,1077,"Mycetophyllia danaana",1,"Global estimate",NA,NA,10,NA,124852,181,"Corallite width minimum",28,"mm",15,"Image analysis",10,"raw_value",NA,NA,NA,NA,NA
+110407,1,31,1078,"Mycetophyllia ferox",1,"Global estimate",NA,NA,10,NA,124854,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.7,"raw_value",NA,NA,NA,NA,NA
+110409,1,31,1079,"Mycetophyllia lamarckiana",1,"Global estimate",NA,NA,10,NA,124856,181,"Corallite width minimum",28,"mm",15,"Image analysis",11,"raw_value",NA,NA,NA,NA,NA
+110411,1,31,1080,"Mycetophyllia reesi",1,"Global estimate",NA,NA,10,NA,124858,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.9,"raw_value",NA,NA,NA,NA,NA
+110413,1,31,1081,"Nemenzophyllia turbida",1,"Global estimate",NA,NA,10,NA,124860,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+110415,1,31,1089,"Oculina diffusa",1,"Global estimate",NA,NA,10,NA,124862,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.7,"raw_value",NA,NA,NA,NA,NA
+110417,1,31,1090,"Oculina patagonica",1,"Global estimate",NA,NA,10,NA,124864,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110419,1,31,1091,"Oculina profunda",1,"Global estimate",NA,NA,44,NA,124866,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",2,"raw_value",NA,NA,NA,NA,NA
+110421,1,31,1092,"Oculina robusta",1,"Global estimate",NA,NA,10,NA,124868,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.9,"raw_value",NA,NA,NA,NA,NA
+110423,1,31,1094,"Oculina valenciennesi",1,"Global estimate",NA,NA,10,NA,124870,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110425,1,31,1095,"Oculina varicosa",1,"Global estimate",NA,NA,10,NA,124872,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.1,"raw_value",NA,NA,NA,NA,NA
+110427,1,31,973,"Orbicella annularis",1,"Global estimate",NA,NA,10,NA,124874,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110429,1,31,1101,"Oulastrea crispata",1,"Global estimate",NA,NA,10,NA,124876,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110431,1,31,1102,"Oulophyllia bennettae",1,"Global estimate",NA,NA,10,NA,124878,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.8,"raw_value",NA,NA,NA,NA,NA
+110433,1,31,1103,"Oulophyllia crispa",1,"Global estimate",NA,NA,10,NA,124880,181,"Corallite width minimum",28,"mm",15,"Image analysis",7,"raw_value",NA,NA,NA,NA,NA
+110435,1,31,1104,"Oulophyllia levis",1,"Global estimate",NA,NA,10,NA,124882,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.6,"raw_value",NA,NA,NA,NA,NA
+110437,1,31,1105,"Oxypora convoluta",1,"Global estimate",NA,NA,65,NA,124884,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.5,"raw_value",NA,NA,NA,NA,NA
+110439,1,31,1106,"Oxypora crassispinosa",1,"Global estimate",NA,NA,10,NA,124886,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.2,"raw_value",NA,NA,NA,NA,NA
+110441,1,31,1107,"Oxypora egyptensis",1,"Global estimate",NA,NA,65,NA,124888,181,"Corallite width minimum",28,"mm",15,"Image analysis",10.4,"raw_value",NA,NA,NA,NA,NA
+110443,1,31,1108,"Oxypora glabra",1,"Global estimate",NA,NA,10,NA,124890,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+110445,1,31,1109,"Oxypora lacera",1,"Global estimate",NA,NA,10,NA,124892,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.1,"raw_value",NA,NA,NA,NA,NA
+110447,1,31,1114,"Pachyseris foliosa",1,"Global estimate",NA,NA,10,NA,124894,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.2,"raw_value",NA,NA,NA,NA,NA
+110449,1,31,1115,"Pachyseris gemmae",1,"Global estimate",NA,NA,10,NA,124896,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+110451,1,31,1116,"Pachyseris involuta",1,"Global estimate",NA,NA,10,NA,124898,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110453,1,31,1117,"Pachyseris rugosa",1,"Global estimate",NA,NA,10,NA,124900,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.2,"raw_value",NA,NA,NA,NA,NA
+110455,1,31,1118,"Pachyseris speciosa",1,"Global estimate",NA,NA,10,NA,124902,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.4,"raw_value",NA,NA,NA,NA,NA
+110457,1,31,1119,"Palauastrea ramosa",1,"Global estimate",NA,NA,10,NA,124904,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110459,1,31,795,"Paragoniastrea australensis",1,"Global estimate",NA,NA,10,NA,124906,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.5,"raw_value",NA,NA,NA,NA,NA
+110461,1,31,797,"Paragoniastrea deformis",1,"Global estimate",NA,NA,10,NA,124908,181,"Corallite width minimum",28,"mm",15,"Image analysis",6.2,"raw_value",NA,NA,NA,NA,NA
+110463,1,31,681,"Paragoniastrea russelli",1,"Global estimate",NA,NA,10,NA,124910,181,"Corallite width minimum",28,"mm",15,"Image analysis",6,"raw_value",NA,NA,NA,NA,NA
+110465,1,31,680,"Paramontastraea peresi",1,"Global estimate",NA,NA,10,NA,124912,181,"Corallite width minimum",28,"mm",15,"Image analysis",5,"raw_value",NA,NA,NA,NA,NA
+110467,1,31,982,"Paramontastraea salebrosa",1,"Global estimate",NA,NA,10,NA,124914,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110469,1,31,983,"Paramontastraea serageldini",1,"Global estimate",NA,NA,65,NA,124916,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+110471,1,31,283,"Parascolymia rowleyensis",1,"Global estimate",NA,NA,10,NA,124918,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.5,"raw_value",NA,NA,NA,NA,NA
+110474,1,31,1148,"Pavona bipartita",1,"Global estimate",NA,NA,10,NA,124921,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110476,1,31,1149,"Pavona cactus",1,"Global estimate",NA,NA,10,NA,124923,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110478,1,31,1150,"Pavona chiriquiensis",1,"Global estimate",NA,NA,32,NA,124925,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110480,1,31,1151,"Pavona clavus",1,"Global estimate",NA,NA,10,NA,124927,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110482,1,31,1152,"Pavona danai",1,"Global estimate",NA,NA,10,NA,124929,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110484,1,31,1153,"Pavona decussata",1,"Global estimate",NA,NA,10,NA,124931,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110486,1,31,1154,"Pavona diffluens",1,"Global estimate",NA,NA,10,NA,124933,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+110488,1,31,1156,"Pavona duerdeni",1,"Global estimate",NA,NA,10,NA,124935,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110490,1,31,1157,"Pavona explanulata",1,"Global estimate",NA,NA,10,NA,124937,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+110492,1,31,1158,"Pavona frondifera",1,"Global estimate",NA,NA,10,NA,124939,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110494,1,31,1159,"Pavona gigantea",1,"Global estimate",NA,NA,10,NA,124941,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.7,"raw_value",NA,NA,NA,NA,NA
+110496,1,31,1161,"Pavona maldivensis",1,"Global estimate",NA,NA,10,NA,124943,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.9,"raw_value",NA,NA,NA,NA,NA
+110498,1,31,1162,"Pavona minuta",1,"Global estimate",NA,NA,10,NA,124945,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110500,1,31,1163,"Pavona varians",1,"Global estimate",NA,NA,10,NA,124947,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+110502,1,31,1164,"Pavona venosa",1,"Global estimate",NA,NA,10,NA,124949,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.2,"raw_value",NA,NA,NA,NA,NA
+110504,1,31,1166,"Pectinia africanus",1,"Global estimate",NA,NA,65,NA,124951,181,"Corallite width minimum",28,"mm",15,"Image analysis",13.8,"raw_value",NA,NA,NA,NA,NA
+110506,1,31,1167,"Pectinia alcicornis",1,"Global estimate",NA,NA,297,NA,124953,181,"Corallite width minimum",28,"mm",15,"Image analysis",18.8,"raw_value",NA,NA,NA,NA,NA
+110508,1,31,1170,"Pectinia elongata",1,"Global estimate",NA,NA,10,NA,124955,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+110510,1,31,1171,"Pectinia lactuca",1,"Global estimate",NA,NA,10,NA,124957,181,"Corallite width minimum",28,"mm",15,"Image analysis",27.5,"raw_value",NA,NA,NA,NA,NA
+110512,1,31,1172,"Pectinia maxima",1,"Global estimate",NA,NA,10,NA,124959,181,"Corallite width minimum",28,"mm",15,"Image analysis",7.5,"raw_value",NA,NA,NA,NA,NA
+110514,1,31,1173,"Pectinia paeonia",1,"Global estimate",NA,NA,10,NA,124961,181,"Corallite width minimum",28,"mm",15,"Image analysis",30,"raw_value",NA,NA,NA,NA,NA
+110516,1,31,1174,"Pectinia pygmaeus",1,"Global estimate",NA,NA,65,NA,124963,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.5,"raw_value",NA,NA,NA,NA,NA
+110518,1,31,1175,"Pectinia teres",1,"Global estimate",NA,NA,297,NA,124965,181,"Corallite width minimum",28,"mm",15,"Image analysis",4,"raw_value",NA,NA,NA,NA,NA
+110520,1,31,1190,"Physogyra lichtensteini",1,"Global estimate",NA,NA,10,NA,124967,181,"Corallite width minimum",28,"mm",15,"Image analysis",6,"raw_value",NA,NA,NA,NA,NA
+110522,1,31,1168,"Physophyllia ayleni",1,"Global estimate",NA,NA,10,NA,124969,181,"Corallite width minimum",28,"mm",15,"Image analysis",11,"raw_value",NA,NA,NA,NA,NA
+110524,1,31,1195,"Platygyra acuta",1,"Global estimate",NA,NA,65,NA,124971,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.3,"raw_value",NA,NA,NA,NA,NA
+110526,1,31,1196,"Platygyra carnosus",1,"Global estimate",NA,NA,65,NA,124973,181,"Corallite width minimum",28,"mm",15,"Image analysis",3,"raw_value",NA,NA,NA,NA,NA
+110528,1,31,1197,"Platygyra contorta",1,"Global estimate",NA,NA,10,NA,124975,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.8,"raw_value",NA,NA,NA,NA,NA
+110530,1,31,1198,"Platygyra crosslandi",1,"Global estimate",NA,NA,10,NA,124977,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.2,"raw_value",NA,NA,NA,NA,NA
+110532,1,31,1199,"Platygyra daedalea",1,"Global estimate",NA,NA,10,NA,124979,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.8,"raw_value",NA,NA,NA,NA,NA
+110534,1,31,1200,"Platygyra lamellina",1,"Global estimate",NA,NA,10,NA,124981,181,"Corallite width minimum",28,"mm",15,"Image analysis",8.1,"raw_value",NA,NA,NA,NA,NA
+110536,1,31,1201,"Platygyra pini",1,"Global estimate",NA,NA,10,NA,124983,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.7,"raw_value",NA,NA,NA,NA,NA
+110538,1,31,1202,"Platygyra ryukyuensis",1,"Global estimate",NA,NA,10,NA,124985,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110540,1,31,1203,"Platygyra sinensis",1,"Global estimate",NA,NA,10,NA,124987,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.3,"raw_value",NA,NA,NA,NA,NA
+110542,1,31,1204,"Platygyra verweyi",1,"Global estimate",NA,NA,10,NA,124989,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.8,"raw_value",NA,NA,NA,NA,NA
+110544,1,31,1205,"Platygyra yaeyamaensis",1,"Global estimate",NA,NA,10,NA,124991,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.7,"raw_value",NA,NA,NA,NA,NA
+110547,1,31,1216,"Plerogyra multilobata",1,"Global estimate",NA,NA,31,NA,124994,181,"Corallite width minimum",28,"mm",15,"Image analysis",14,"raw_value",NA,NA,NA,NA,NA
+110549,1,31,1217,"Plerogyra simplex",1,"Global estimate",NA,NA,10,NA,124996,181,"Corallite width minimum",28,"mm",15,"Image analysis",15,"raw_value",NA,NA,NA,NA,NA
+110551,1,31,1218,"Plerogyra sinuosa",1,"Global estimate",NA,NA,10,NA,124998,181,"Corallite width minimum",28,"mm",15,"Image analysis",15,"raw_value",NA,NA,NA,NA,NA
+110553,1,31,1221,"Plesiastrea versipora",1,"Global estimate",NA,NA,10,NA,125000,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.9,"raw_value",NA,NA,NA,NA,NA
+110560,1,31,1222,"Pocillopora ankeli",1,"Global estimate",NA,NA,10,NA,125007,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110562,1,31,1223,"Pocillopora capitata",1,"Global estimate",NA,NA,10,NA,125009,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.3,"raw_value",NA,NA,NA,NA,NA
+110564,1,31,1224,"Pocillopora damicornis",1,"Global estimate",NA,NA,10,NA,125011,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110566,1,31,1225,"Pocillopora danae",1,"Global estimate",NA,NA,10,NA,125013,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110568,1,31,1226,"Pocillopora effusa",1,"Global estimate",NA,NA,65,NA,125015,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110570,1,31,1227,"Pocillopora elegans",1,"Global estimate",NA,NA,10,NA,125017,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110572,1,31,1228,"Pocillopora eydouxi",1,"Global estimate",NA,NA,10,NA,125019,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110574,1,31,1229,"Pocillopora fungiformis",1,"Global estimate",NA,NA,65,NA,125021,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110576,1,31,1230,"Pocillopora indiania",1,"Global estimate",NA,NA,65,NA,125023,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110578,1,31,1231,"Pocillopora inflata",1,"Global estimate",NA,NA,10,NA,125025,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110580,1,31,1232,"Pocillopora kelleheri",1,"Global estimate",NA,NA,65,NA,125027,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110582,1,31,1233,"Pocillopora ligulata",1,"Global estimate",NA,NA,10,NA,125029,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110584,1,31,1234,"Pocillopora meandrina",1,"Global estimate",NA,NA,10,NA,125031,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110586,1,31,1235,"Pocillopora molokensis",1,"Global estimate",NA,NA,10,NA,125033,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110588,1,31,1237,"Pocillopora verrucosa",1,"Global estimate",NA,NA,10,NA,125035,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.3,"raw_value",NA,NA,NA,NA,NA
+110590,1,31,1238,"Pocillopora woodjonesi",1,"Global estimate",NA,NA,10,NA,125037,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110592,1,31,1239,"Pocillopora zelli",1,"Global estimate",NA,NA,65,NA,125039,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110594,1,31,1240,"Podabacia crustacea",1,"Global estimate",NA,NA,10,NA,125041,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.9,"raw_value",NA,NA,NA,NA,NA
+110596,1,31,1241,"Podabacia lankaensis",1,"Global estimate",NA,NA,65,NA,125043,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.8,"raw_value",NA,NA,NA,NA,NA
+110598,1,31,1242,"Podabacia motuporensis",1,"Global estimate",NA,NA,10,NA,125045,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+110600,1,31,1243,"Podabacia sinai",1,"Global estimate",NA,NA,65,NA,125047,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110604,1,31,1266,"Porites annae",1,"Global estimate",NA,NA,297,NA,125051,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110606,1,31,1267,"Porites aranetai",1,"Global estimate",NA,NA,10,NA,125053,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",0.8,"raw_value",NA,NA,NA,NA,NA
+110608,1,31,1268,"Porites arnaudi",1,"Global estimate",NA,NA,297,NA,125055,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110610,1,31,1269,"Porites astreoides",1,"Global estimate",NA,NA,10,NA,125057,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+110612,1,31,1270,"Porites attenuata",1,"Global estimate",NA,NA,297,NA,125059,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.6,"raw_value",NA,NA,NA,NA,NA
+110614,1,31,1271,"Porites australiensis",1,"Global estimate",NA,NA,297,NA,125061,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110616,1,31,1274,"Porites branneri",1,"Global estimate",NA,NA,10,NA,125063,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.4,"raw_value",NA,NA,NA,NA,NA
+110618,1,31,1275,"Porites brighami",1,"Global estimate",NA,NA,297,NA,125065,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110620,1,31,1276,"Porites cocosensis",1,"Global estimate",NA,NA,10,NA,125067,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1,"raw_value",NA,NA,NA,NA,NA
+110622,1,31,1277,"Porites colonensis",1,"Global estimate",NA,NA,10,NA,125069,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+110624,1,31,1278,"Porites columnaris",1,"Global estimate",NA,NA,297,NA,125071,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110626,1,31,1279,"Porites compressa",1,"Global estimate",NA,NA,297,NA,125073,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110628,1,31,1280,"Porites cumulatus",1,"Global estimate",NA,NA,297,NA,125075,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110630,1,31,1281,"Porites cylindrica",1,"Global estimate",NA,NA,297,NA,125077,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110632,1,31,1283,"Porites deformis",1,"Global estimate",NA,NA,297,NA,125079,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110634,1,31,1284,"Porites densa",1,"Global estimate",NA,NA,297,NA,125081,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110636,1,31,1285,"Porites desilveri",1,"Global estimate",NA,NA,65,NA,125083,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110638,1,31,1286,"Porites divaricata",1,"Global estimate",NA,NA,297,NA,125085,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110640,1,31,1288,"Porites echinulata",1,"Global estimate",NA,NA,297,NA,125087,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110642,1,31,1290,"Porites eridani",1,"Global estimate",NA,NA,10,NA,125089,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110644,1,31,1291,"Porites evermanni",1,"Global estimate",NA,NA,297,NA,125091,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110646,1,31,1293,"Porites flavus",1,"Global estimate",NA,NA,65,NA,125093,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110648,1,31,1294,"Porites furcata",1,"Global estimate",NA,NA,10,NA,125095,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110650,1,31,1296,"Porites harrisoni",1,"Global estimate",NA,NA,65,NA,125097,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110652,1,31,1298,"Porites heronensis",1,"Global estimate",NA,NA,10,NA,125099,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110654,1,31,1299,"Porites horizontalata",1,"Global estimate",NA,NA,297,NA,125101,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110656,1,31,1301,"Porites latistella",1,"Global estimate",NA,NA,297,NA,125103,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110658,1,31,1302,"Porites lichen",1,"Global estimate",NA,NA,297,NA,125105,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110660,1,31,1303,"Porites lobata",1,"Global estimate",NA,NA,297,NA,125107,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110662,1,31,1304,"Porites lutea",1,"Global estimate",NA,NA,297,NA,125109,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110664,1,31,1305,"Porites mayeri",1,"Global estimate",NA,NA,297,NA,125111,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110666,1,31,1306,"Porites monticulosa",1,"Global estimate",NA,NA,297,NA,125113,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110668,1,31,1307,"Porites murrayensis",1,"Global estimate",NA,NA,297,NA,125115,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110670,1,31,1308,"Porites myrmidonensis",1,"Global estimate",NA,NA,297,NA,125117,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110672,1,31,1309,"Porites napopora",1,"Global estimate",NA,NA,65,NA,125119,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110674,1,31,1310,"Porites negrosensis",1,"Global estimate",NA,NA,10,NA,125121,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110676,1,31,1311,"Porites nigrescens",1,"Global estimate",NA,NA,297,NA,125123,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+110678,1,31,1312,"Porites nodifera",1,"Global estimate",NA,NA,297,NA,125125,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110680,1,31,1313,"Porites okinawensis",1,"Global estimate",NA,NA,297,NA,125127,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110682,1,31,1314,"Porites ornata",1,"Global estimate",NA,NA,297,NA,125129,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110684,1,31,1315,"Porites panamensis",1,"Global estimate",NA,NA,10,NA,125131,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110686,1,31,1316,"Porites porites",1,"Global estimate",NA,NA,297,NA,125133,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110688,1,31,1317,"Porites profundus",1,"Global estimate",NA,NA,10,NA,125135,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110690,1,31,1318,"Porites pukoensis",1,"Global estimate",NA,NA,10,NA,125137,181,"Corallite width minimum",28,"mm",22,"Derived from textual description",1.2,"raw_value",NA,NA,NA,NA,NA
+110692,1,31,1319,"Porites rugosa",1,"Global estimate",NA,NA,65,NA,125139,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110694,1,31,1320,"Porites rus",1,"Global estimate",NA,NA,10,NA,125141,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110696,1,31,1321,"Porites sillimaniani",1,"Global estimate",NA,NA,297,NA,125143,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110698,1,31,1322,"Porites solida",1,"Global estimate",NA,NA,297,NA,125145,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110700,1,31,1323,"Porites somaliensis",1,"Global estimate",NA,NA,297,NA,125147,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110702,1,31,1324,"Porites stephensoni",1,"Global estimate",NA,NA,297,NA,125149,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110704,1,31,1327,"Porites tuberculosa",1,"Global estimate",NA,NA,65,NA,125151,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110706,1,31,1328,"Porites vaughani",1,"Global estimate",NA,NA,297,NA,125153,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110708,1,31,1337,"Psammocora contigua",1,"Global estimate",NA,NA,10,NA,125155,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110710,1,31,1338,"Psammocora digitata",1,"Global estimate",NA,NA,10,NA,125157,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110712,1,31,1340,"Psammocora haimiana",1,"Global estimate",NA,NA,297,NA,125159,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110716,1,31,1344,"Psammocora profundacella",1,"Global estimate",NA,NA,10,NA,125163,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110718,1,31,1346,"Psammocora stellata",1,"Global estimate",NA,NA,10,NA,125165,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110720,1,31,1347,"Psammocora superficialis",1,"Global estimate",NA,NA,10,NA,125167,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110714,1,31,1348,"Psammocora verrilli",1,"Global estimate",NA,NA,10,NA,125161,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.2,"raw_value",NA,NA,NA,NA,NA
+110722,1,31,588,"Pseudodiploria clivosa",1,"Global estimate",NA,NA,10,NA,125169,181,"Corallite width minimum",28,"mm",15,"Image analysis",4.5,"raw_value",NA,NA,NA,NA,NA
+110724,1,31,590,"Pseudodiploria strigosa",1,"Global estimate",NA,NA,10,NA,125171,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.1,"raw_value",NA,NA,NA,NA,NA
+110726,1,31,1567,"Pseudosiderastrea formosa",1,"Global estimate",NA,NA,634,NA,125173,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.8,"raw_value",NA,NA,NA,NA,NA
+110728,1,31,1351,"Pseudosiderastrea tayamai",1,"Global estimate",NA,NA,10,NA,125175,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110730,1,31,835,"Sandalolitha dentata",1,"Global estimate",NA,NA,297,NA,125177,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.8,"raw_value",NA,NA,NA,NA,NA
+110732,1,31,1376,"Sandalolitha robusta",1,"Global estimate",NA,NA,297,NA,125179,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.9,"raw_value",NA,NA,NA,NA,NA
+110734,1,31,1377,"Scapophyllia cylindrica",1,"Global estimate",NA,NA,10,NA,125181,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.9,"raw_value",NA,NA,NA,NA,NA
+110736,1,31,1378,"Schizoculina africana",1,"Global estimate",NA,NA,10,NA,125183,181,"Corallite width minimum",28,"mm",15,"Image analysis",5.9,"raw_value",NA,NA,NA,NA,NA
+110738,1,31,1379,"Schizoculina fissipara",1,"Global estimate",NA,NA,10,NA,125185,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.7,"raw_value",NA,NA,NA,NA,NA
+110740,1,31,10,"Sclerophyllia maxima",1,"Global estimate",NA,NA,10,NA,125187,181,"Corallite width minimum",28,"mm",15,"Image analysis",27.5,"raw_value",NA,NA,NA,NA,NA
+110743,1,31,1386,"Seriatopora aculeata",1,"Global estimate",NA,NA,10,NA,125190,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.3,"raw_value",NA,NA,NA,NA,NA
+110745,1,31,1387,"Seriatopora caliendrum",1,"Global estimate",NA,NA,10,NA,125192,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110747,1,31,1388,"Seriatopora dentritica",1,"Global estimate",NA,NA,65,NA,125194,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110749,1,31,1389,"Seriatopora guttata",1,"Global estimate",NA,NA,65,NA,125196,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110751,1,31,1390,"Seriatopora hystrix",1,"Global estimate",NA,NA,10,NA,125198,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110753,1,31,1391,"Seriatopora stellata",1,"Global estimate",NA,NA,10,NA,125200,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.5,"raw_value",NA,NA,NA,NA,NA
+110755,1,31,1392,"Siderastrea glynni",1,"Global estimate",NA,NA,10,NA,125202,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.6,"raw_value",NA,NA,NA,NA,NA
+110757,1,31,1393,"Siderastrea radians",1,"Global estimate",NA,NA,10,NA,125204,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110759,1,31,1394,"Siderastrea savignyana",1,"Global estimate",NA,NA,10,NA,125206,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.8,"raw_value",NA,NA,NA,NA,NA
+110761,1,31,1395,"Siderastrea siderea",1,"Global estimate",NA,NA,10,NA,125208,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.4,"raw_value",NA,NA,NA,NA,NA
+110763,1,31,1396,"Siderastrea stellata",1,"Global estimate",NA,NA,10,NA,125210,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.7,"raw_value",NA,NA,NA,NA,NA
+110765,1,31,1397,"Simplastrea vesicularis",1,"Global estimate",NA,NA,10,NA,125212,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.2,"raw_value",NA,NA,NA,NA,NA
+110767,1,31,1398,"Solenastrea bournoni",1,"Global estimate",NA,NA,10,NA,125214,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110769,1,31,1399,"Solenastrea hyades",1,"Global estimate",NA,NA,10,NA,125216,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.5,"raw_value",NA,NA,NA,NA,NA
+110771,1,31,1414,"Stephanocoenia intersepta",1,"Global estimate",NA,NA,10,NA,125218,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
+110773,1,31,1431,"Stylaraea punctata",1,"Global estimate",NA,NA,297,NA,125220,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.1,"raw_value",NA,NA,NA,NA,NA
+110775,1,31,1432,"Stylocoeniella armata",1,"Global estimate",NA,NA,10,NA,125222,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.3,"raw_value",NA,NA,NA,NA,NA
+110777,1,31,1433,"Stylocoeniella cocosensis",1,"Global estimate",NA,NA,10,NA,125224,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110779,1,31,1434,"Stylocoeniella guentheri",1,"Global estimate",NA,NA,10,NA,125226,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110781,1,31,1436,"Stylophora danae",1,"Global estimate",NA,NA,10,NA,125228,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110783,1,31,1437,"Stylophora kuehlmanni",1,"Global estimate",NA,NA,10,NA,125230,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.4,"raw_value",NA,NA,NA,NA,NA
+110785,1,31,1438,"Stylophora madagascarensis",1,"Global estimate",NA,NA,65,NA,125232,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.7,"raw_value",NA,NA,NA,NA,NA
+110787,1,31,1439,"Stylophora mamillata",1,"Global estimate",NA,NA,10,NA,125234,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.8,"raw_value",NA,NA,NA,NA,NA
+110789,1,31,1441,"Stylophora pistillata",1,"Global estimate",NA,NA,10,NA,125236,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110791,1,31,1442,"Stylophora subseriata",1,"Global estimate",NA,NA,10,NA,125238,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110793,1,31,1443,"Stylophora wellsi",1,"Global estimate",NA,NA,10,NA,125240,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.6,"raw_value",NA,NA,NA,NA,NA
+110795,1,31,1444,"Symphyllia agaricia",1,"Global estimate",NA,NA,10,NA,125242,181,"Corallite width minimum",28,"mm",15,"Image analysis",20,"raw_value",NA,NA,NA,NA,NA
+110797,1,31,1445,"Symphyllia erythraea",1,"Global estimate",NA,NA,10,NA,125244,181,"Corallite width minimum",28,"mm",15,"Image analysis",13.5,"raw_value",NA,NA,NA,NA,NA
+110799,1,31,1446,"Symphyllia hassi",1,"Global estimate",NA,NA,10,NA,125246,181,"Corallite width minimum",28,"mm",15,"Image analysis",12.5,"raw_value",NA,NA,NA,NA,NA
+110801,1,31,1447,"Symphyllia radians",1,"Global estimate",NA,NA,10,NA,125248,181,"Corallite width minimum",28,"mm",15,"Image analysis",25,"raw_value",NA,NA,NA,NA,NA
+110803,1,31,1448,"Symphyllia recta",1,"Global estimate",NA,NA,10,NA,125250,181,"Corallite width minimum",28,"mm",15,"Image analysis",9,"raw_value",NA,NA,NA,NA,NA
+110805,1,31,1449,"Symphyllia valenciennesii",1,"Global estimate",NA,NA,10,NA,125252,181,"Corallite width minimum",28,"mm",15,"Image analysis",30,"raw_value",NA,NA,NA,NA,NA
+110807,1,31,1465,"Trachyphyllia geoffroyi",1,"Global estimate",NA,NA,10,NA,125254,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110809,1,31,1538,"Turbinaria bifrons",1,"Global estimate",NA,NA,10,NA,125256,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.4,"raw_value",NA,NA,NA,NA,NA
+110811,1,31,1539,"Turbinaria conspicua",1,"Global estimate",NA,NA,10,NA,125258,181,"Corallite width minimum",28,"mm",15,"Image analysis",1,"raw_value",NA,NA,NA,NA,NA
+110813,1,31,1541,"Turbinaria frondens",1,"Global estimate",NA,NA,10,NA,125260,181,"Corallite width minimum",28,"mm",15,"Image analysis",0.9,"raw_value",NA,NA,NA,NA,NA
+110815,1,31,1542,"Turbinaria heronensis",1,"Global estimate",NA,NA,10,NA,125262,181,"Corallite width minimum",28,"mm",15,"Image analysis",3.5,"raw_value",NA,NA,NA,NA,NA
+110817,1,31,1543,"Turbinaria irregularis",1,"Global estimate",NA,NA,10,NA,125264,181,"Corallite width minimum",28,"mm",15,"Image analysis",1.5,"raw_value",NA,NA,NA,NA,NA
+110819,1,31,1544,"Turbinaria mesenterina",1,"Global estimate",NA,NA,10,NA,125266,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+110821,1,31,1545,"Turbinaria patula",1,"Global estimate",NA,NA,10,NA,125268,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.3,"raw_value",NA,NA,NA,NA,NA
+110823,1,31,1547,"Turbinaria radicalis",1,"Global estimate",NA,NA,10,NA,125270,181,"Corallite width minimum",28,"mm",15,"Image analysis",2,"raw_value",NA,NA,NA,NA,NA
+110825,1,31,1548,"Turbinaria reniformis",1,"Global estimate",NA,NA,10,NA,125272,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.8,"raw_value",NA,NA,NA,NA,NA
+110827,1,31,1549,"Turbinaria stellulata",1,"Global estimate",NA,NA,10,NA,125274,181,"Corallite width minimum",28,"mm",15,"Image analysis",2.1,"raw_value",NA,NA,NA,NA,NA
